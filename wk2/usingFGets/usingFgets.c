@@ -31,7 +31,7 @@ int printName()
     if (isAdmin == FALSE)
     {
         printf("Welcome, %s!\n", name);
-        printf("You are in this program, but we do not grant you the rank of Admin.\n");
+        printf("You are in this program, but we do not grant youR the rank of Admin.\n");
         printf("Now go away, or I will taunt you a second time.\n");
     }
     else
