@@ -1,0 +1,10 @@
+# wget https://ctfd.comp6841.xyz/files/a1e905ab14362a347f03cc8db0f514bf/Makefile?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzJ9.aE4p_g.BTCs3fGRx6RLkmdWmQAv1XPnR-Q 
+# wget https://ctfd.comp6841.xyz/files/8d49cb3d4c293f3cd210464e813ae37b/RCE.c?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzN9.aE4p_g.2k7CMjFeSqXl1hyWo61Cl51YiN0 
+# wget https://ctfd.comp6841.xyz/files/fc24c53ddff2030520b93d2b0dec0b85/run.sh?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzR9.aE4p_g.EFi6y4nZgvOQOQAWgUdaDCkfGGs 
+# wget https://ctfd.comp6841.xyz/files/aa139c2698dccfc7a5b383bd094c98e8/Dockerfile?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzV9.aE4p_g.O05MjpP2WB4X9IymsWOhod3QBZ8 
+
+
+mv  'Makefile?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzJ9.aE4p_g.BTCs3fGRx6RLkmdWmQAv1XPnR-Q' Makefile
+mv  'RCE.c?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzN9.aE4p_g.2k7CMjFeSqXl1hyWo61Cl51YiN0' RCE.c
+mv  'run.sh?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzR9.aE4p_g.EFi6y4nZgvOQOQAWgUdaDCkfGGs' run.sh
+mv  'Dockerfile?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzV9.aE4p_g.O05MjpP2WB4X9IymsWOhod3QBZ8' Dockerfile

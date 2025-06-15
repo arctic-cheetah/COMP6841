@@ -1,0 +1,3 @@
+export CURR_PATH="wk2/RCE"
+export REMOTE="$CURR_PATH/exploit.py REMOTE boverflow.comp6841.xyz 1342"
+alias pythonExploit='~/COMP6841/.venv/bin/python'
