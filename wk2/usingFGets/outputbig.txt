@@ -7,7 +7,7 @@
     b'\r\n'
     b'What is your name?\r\n'
     b'> '
-[DEBUG] Sent 0x80000002 bytes:
+[DEBUG] Sent 0x800000002 bytes:
     00000000  41 41 41 41  41 41 41 41  41 41 41 41  41 41 41 41  │AAAA│AAAA│AAAA│AAAA│
     *
     80000000  01 0a                                               │··│

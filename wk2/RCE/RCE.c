@@ -7,7 +7,8 @@
 
 int printName();
 
-int main(int argv, char **argc) {
+int main(int argv, char **argc)
+{
 
     printf("Welcome!\n");
     printName();
@@ -16,7 +17,8 @@ int main(int argv, char **argc) {
     return EXIT_SUCCESS;
 }
 
-int printName() {
+int printName()
+{
     char name[BUFF_SIZE];
 
     printf("Your buffer is located at: %p\n", name);
