@@ -14,12 +14,12 @@ apple: 7_RCE_apple
 
 
 7_RCE:
-	${CC} ${COMPILE_FLAGS} -o ./challenge2 RCE.c
+	${CC} ${COMPILE_FLAGS} -m32 -o ./challenge RCE.c
 
 
 7_RCE_apple:
-	${CC} ${COMPILE_FLAGS} -o ./challenge2 RCE.c
+	${CC} ${COMPILE_FLAGS} -o ./challenge RCE.c
 
 
 clean:
-	rm -rf ./challenge2 ./challenge2.dSYM
+	rm -rf ./challenge ./challenge.dSYM

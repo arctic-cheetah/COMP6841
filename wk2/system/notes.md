@@ -66,4 +66,5 @@ dl_pagesize = (little endian): 0x00 10 00 00 00 00 00 00
 
 __libc_stack_end = 0x0049fa38
 puts = 0x0040a780
+
 0x0000000000402081 : pop rdi ; ret
