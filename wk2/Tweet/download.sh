@@ -1,0 +1,6 @@
+wget https://ctfd.comp6841.xyz/files/0589fcb1b5f44cc9a440aa8786840055/Makefile?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTF9.aEsVdA.48FhEKRoi1EkhjoW9LSgaqzLVQc
+wget https://ctfd.comp6841.xyz/files/eeed5c87a53a62c0c0e7c1e45067ba46/printFlag.c?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTJ9.aEsVdA.W04vwpiYUOz54GAFhDTWRQtkHec
+wget https://ctfd.comp6841.xyz/files/b0ecae462e2ec7b97194fece43ea623f/tweetTweet.c?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTN9.aEsVdA.iNPTvb2HwZjZmYz7b6CpTJFmYbo
+wget https://ctfd.comp6841.xyz/files/59be5878ec7d2509fc5368f4d6e3be37/run.sh?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTR9.aEsVdA.XdT3V8GC_vSm7kKbMYQft6EoUyQ
+wget https://ctfd.comp6841.xyz/files/6880e95c5fb1cf8638f1b261b9b06e6e/Dockerfile?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTV9.aEsVdA.zfWzeBlKvoRQXhiJNYa7RQ3EhF0
+

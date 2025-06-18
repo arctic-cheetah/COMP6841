@@ -1,0 +1,11 @@
+[x] Opening connection to boverflow.comp6841.xyz on port 1342
+[x] Opening connection to boverflow.comp6841.xyz on port 1342: Trying 170.64.222.246
+[+] Opening connection to boverflow.comp6841.xyz on port 1342: Done
+[DEBUG] Received 0x8 bytes:
+    b'Welcome!'
+[DEBUG] Received 0x18 bytes:
+    b'\r\n'
+    b'What is your name?\r\n'
+    b'> '
+Sending 0x100000000 bytes
+[DEBUG] Sent 0x100000005 bytes:

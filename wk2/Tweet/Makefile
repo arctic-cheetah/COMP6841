@@ -1,5 +1,5 @@
 .PHONY = all clean
-# -g -O0 -fno-stack-protector -no-pie -m32 -o
+
 CC = gcc-11
 COMPILE_FLAGS = -g -O0 -fno-stack-protector -no-pie # -m32
 	# -g: default level of debug information
@@ -8,16 +8,16 @@ COMPILE_FLAGS = -g -O0 -fno-stack-protector -no-pie # -m32
 	# -no-pie: disable position independent execution - disables relative paths for addresses
 	# -m32: compile as a 32 bit program
 
-all: 1_adminOverflow
-apple: 1_adminOverflow_apple
+all: 3_tweetTweet
+apple: 3_tweetTweet_apple
 
 
-1_adminOverflow:
-	${CC} ${COMPILE_FLAGS} -m32 -o ./challenge adminOverflow.c
+3_tweetTweet:
+	${CC} ${COMPILE_FLAGS} -m32 -o ./challenge tweetTweet.c
 
 
-1_adminOverflow_apple:
-	${CC} ${COMPILE_FLAGS} -o ./challenge adminOverflow.c
+3_tweetTweet_apple:
+	${CC} ${COMPILE_FLAGS} -o ./challenge tweetTweet.c
 
 
 clean:
