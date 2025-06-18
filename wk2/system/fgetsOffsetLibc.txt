@@ -1,0 +1,10 @@
+    78: 0007a1e0   440 FUNC    WEAK   DEFAULT   14 fgets@@GLIBC_2.0
+   110: 0007a1e0   440 FUNC    GLOBAL DEFAULT   14 _IO_fgets@@GLIBC_2.0
+  1260: 00151450   479 FUNC    GLOBAL DEFAULT   14 fgetsgent@@GLIBC_2.10
+  2231: 0015e110    61 FUNC    WEAK   DEFAULT   14 fgets[...]@@GLIBC_2.0
+  2616: 00085e00   159 FUNC    WEAK   DEFAULT   14 fgets[...]@@GLIBC_2.1
+  3131: 0015df30   479 FUNC    GLOBAL DEFAULT   14 fgetspent@@GLIBC_2.0
+
+  └─$ strings -a -t x /lib32/libc.so.6 | grep '/bin/sh'
+ 1c6e52 /bin/sh
+                 

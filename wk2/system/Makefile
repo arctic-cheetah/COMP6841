@@ -1,7 +1,7 @@
 .PHONY = all clean
 
 CC = gcc-11
-COMPILE_FLAGS = -g -O0 -fno-stack-protector -no-pie -static # -m32
+COMPILE_FLAGS = -g -O0 -fno-stack-protector -z noexecstack -no-pie # -m32
 	# -g: default level of debug information
 	# -O0: do not optimise (Optimisation level 0)
 	# -fno-stack-protector: disable stack protectors (canaries(?))
@@ -14,12 +14,12 @@ apple: 8_system_apple
 
 
 8_system:
-	${CC} ${COMPILE_FLAGS} -o ./challenge2 system.c
+	${CC} ${COMPILE_FLAGS} -m32 -o ./challenge system.c
 
 
 8_system_apple:
-	${CC} ${COMPILE_FLAGS} -o ./challenge2 system.c
+	${CC} ${COMPILE_FLAGS} -o ./challenge system.c
 
 
 clean:
-	rm -rf ./challenge2 ./challenge2.dSYM
+	rm -rf ./challenge ./challenge.dSYM
