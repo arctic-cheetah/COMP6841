@@ -3,7 +3,7 @@
     "configurations": [
         {"name":"Python Debugger: Current File with Arguments",
         "type":"debugpy","request":"launch","program":"${file}","console":"integratedTerminal",
-        "args":["REMOTE" ,"boverflow.comp6841.xyz", "1343"]},
+        "args":["REMOTE" ,"boverflow.comp6841.xyz", "1341"]},
         {
             "name": "C/C++: gcc-9 build and debug active file",
             "type": "cppdbg",

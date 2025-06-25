@@ -9,7 +9,8 @@ int printName();
 
 int welcomeAdmin();
 
-int main(int argv, char **argc) {
+int main(int argv, char **argc)
+{
 
     printf("Welcome!\n");
     printName();
@@ -18,7 +19,8 @@ int main(int argv, char **argc) {
     return EXIT_SUCCESS;
 }
 
-int printName() {
+int printName()
+{
     int isAdmin = 0;
     char name[16];
 
@@ -33,7 +35,8 @@ int printName() {
     return EXIT_SUCCESS;
 }
 
-int welcomeAdmin() {
+int welcomeAdmin()
+{
     // There is no way to get to this function.
 
     printf("With great power comes great responsibility...\n");

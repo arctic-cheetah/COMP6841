@@ -8,3 +8,5 @@
   └─$ strings -a -t x /lib32/libc.so.6 | grep '/bin/sh'
  1c6e52 /bin/sh
                  
+
+0x000254d4 : pop edi ; ret

