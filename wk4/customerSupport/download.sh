@@ -1,0 +1,3 @@
+wget https://ctfd.comp6841.xyz/files/2eb06f72b135d03a1a678c0571562354/customer-support?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDR9.aF6stg.4wf5wdofiAFP2qn9nMFTuEN3DwU
+
+mv customer-support?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDR9.aF6stg.4wf5wdofiAFP2qn9nMFTuEN3DwU customer-support
