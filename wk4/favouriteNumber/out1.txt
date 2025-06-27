@@ -5,304 +5,304 @@
     NX:         NX enabled
     PIE:        No PIE (0x8048000)
     Stripped:   No
-0 : b'%0$p| \nNice to meet you %0$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+0 : b'AAAABBBB %0$p| %0$s\nNice to meet you AAAABBBB %0$p| %0$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-1 : b'0x70243125| \nNice to meet you %1$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+1 : b''
 --------------------------------------------------
 
-2 : b'0xa207c| \nNice to meet you %2$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+2 : b''
 --------------------------------------------------
 
-3 : b'(nil)| \nNice to meet you %3$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+3 : b''
 --------------------------------------------------
 
-4 : b'(nil)| \nNice to meet you %4$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+4 : b''
 --------------------------------------------------
 
-5 : b'(nil)| \nNice to meet you %5$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+5 : b''
 --------------------------------------------------
 
-6 : b'(nil)| \nNice to meet you %6$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+6 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %6$p| %6$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-7 : b'(nil)| \nNice to meet you %7$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+7 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %7$p| %7$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-8 : b'(nil)| \nNice to meet you %8$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+8 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %8$p| %8$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-9 : b'(nil)| \nNice to meet you %9$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+9 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %9$p| %9$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-10 : b'(nil)| \nNice to meet you %10$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+10 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %10$p| %10$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-11 : b'0x804a000| \nNice to meet you %11$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+11 : b'AAAABBBB 0x804a000| \x0c\x9f\x04\x08`\x9a\xf8\xf7\xe0B\xf6\xf7\xb0I\xd7\xf7P\xae\xd4\xf7\x86\x84\x04\x08\xe0\xb1\xd6\xf7\xf0\x97\xdc\xf7\xa0\xd2\xd6\xf7\nNice to meet you AAAABBBB %11$p| %11$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-12 : b'0xff854c78| \nNice to meet you %12$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+12 : b'AAAABBBB 0xffc5fa48| \nNice to meet you AAAABBBB %12$p| %12$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-13 : b'0x80487e0| \nNice to meet you %13$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+13 : b'AAAABBBB 0x80487e0| \xb8\nNice to meet you AAAABBBB %13$p| %13$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-14 : b'0xf7f3be14| \nNice to meet you %14$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+14 : b'AAAABBBB 0xf7f5ae14| \x0c-#\nNice to meet you AAAABBBB %14$p| %14$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-15 : b'(nil)| \nNice to meet you %15$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+15 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %15$p| %15$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-16 : b'0xf7ce2cc3| \nNice to meet you %16$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+16 : b'AAAABBBB 0xf7d41cc3| \x83\xc4\x10\x83\xec\x0cP\xe8\x01\x9e\x01\nNice to meet you AAAABBBB %16$p| %16$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-17 : b'0x1| \nNice to meet you %17$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+17 : b''
 --------------------------------------------------
 
-18 : b'0xff9fef64| \nNice to meet you %18$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+18 : b'AAAABBBB 0xfff31d44| \xa5:\xf3\xff\nNice to meet you AAAABBBB %18$p| %18$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-19 : b'0xffa72f9c| \nNice to meet you %19$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+19 : b'AAAABBBB 0xffb95abc| \xb8z\xb9\xff\xcdz\xb9\xff\xebz\xb9\xff\nNice to meet you AAAABBBB %19$p| %19$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-20 : b'0xffa807c0| \nNice to meet you %20$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+20 : b'AAAABBBB 0xfff86580| \x14>\xed\xf7\xf0\x87\x04\x08`\x8b\xf3\xf7\nNice to meet you AAAABBBB %20$p| %20$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-21 : b'0xf7f40e14| \nNice to meet you %21$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+21 : b'AAAABBBB 0xf7f3ae14| \x0c-#\nNice to meet you AAAABBBB %21$p| %21$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-22 : b'0x8048775| \nNice to meet you %22$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+22 : b'AAAABBBB 0x8048775| U\x89\xe5S\xe8\xf2\xfd\xff\xff\x81\xc3\x82\x18\nNice to meet you AAAABBBB %22$p| %22$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-23 : b'0x1| \nNice to meet you %23$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+23 : b''
 --------------------------------------------------
 
-24 : b'0xffd13634| \nNice to meet you %24$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+24 : b'AAAABBBB 0xff812954| \xa5:\x81\xff\nNice to meet you AAAABBBB %24$p| %24$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-25 : b'0xf7f0ee14| \nNice to meet you %25$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+25 : b'AAAABBBB 0xf7f49e14| \x0c-#\nNice to meet you AAAABBBB %25$p| %25$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-26 : b'0x80487f0| \nNice to meet you %26$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+26 : b'AAAABBBB 0x80487f0| UWVS\xe8w\xfd\xff\xff\x81\xc3\x07\x18\nNice to meet you AAAABBBB %26$p| %26$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-27 : b'0xf7f45b60| \nNice to meet you %27$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+27 : b'AAAABBBB 0xf7f90b60| \nNice to meet you AAAABBBB %27$p| %27$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-28 : b'(nil)| \nNice to meet you %28$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+28 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %28$p| %28$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-29 : b'0xb9204b46| \nNice to meet you %29$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+29 : b''
 --------------------------------------------------
 
-30 : b'0xb79375c0| \nNice to meet you %30$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+30 : b''
 --------------------------------------------------
 
-31 : b'(nil)| \nNice to meet you %31$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+31 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %31$p| %31$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-32 : b'(nil)| \nNice to meet you %32$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+32 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %32$p| %32$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-33 : b'(nil)| \nNice to meet you %33$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+33 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %33$p| %33$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-34 : b'0xf7fddb60| \nNice to meet you %34$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+34 : b'AAAABBBB 0xf7f60b60| \nNice to meet you AAAABBBB %34$p| %34$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-35 : b'(nil)| \nNice to meet you %35$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+35 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %35$p| %35$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-36 : b'0xd7f93f00| \nNice to meet you %36$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+36 : b''
 --------------------------------------------------
 
-37 : b'0xf7fb2a60| \nNice to meet you %37$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+37 : b'AAAABBBB 0xf7fcfa60| \nNice to meet you AAAABBBB %37$p| %37$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-38 : b'0xf7d05c56| \nNice to meet you %38$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+38 : b'AAAABBBB 0xf7d65c56| \x81\xc3\xbe\xe1 \nNice to meet you AAAABBBB %38$p| %38$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-39 : b'0xf7f54e14| \nNice to meet you %39$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+39 : b'AAAABBBB 0xf7f29e14| \x0c-#\nNice to meet you AAAABBBB %39$p| %39$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-40 : b'0xf7ccdd88| \nNice to meet you %40$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+40 : b'AAAABBBB 0xf7d5cd88| \x8b\x93\xb0\x01\nNice to meet you AAAABBBB %40$p| %40$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-41 : b'0xf7fc1ac4| \nNice to meet you %41$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+41 : b'AAAABBBB 0xf7f5fac4| \x18[\x03\nNice to meet you AAAABBBB %41$p| %41$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-42 : b'0x804a000| \nNice to meet you %42$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+42 : b'AAAABBBB 0x804a000| \x0c\x9f\x04\x08`\xda\xf4\xf7\xe0\x82\xf2\xf7\xb0\x89\xd3\xf7P\xee\xd0\xf7\x86\x84\x04\x08\xe0\xf1\xd2\xf7\xf0\xd7\xd8\xf7\xa0\x12\xd3\xf7\nNice to meet you AAAABBBB %42$p| %42$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-43 : b'0x1| \nNice to meet you %43$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+43 : b''
 --------------------------------------------------
 
-44 : b'0x8048520| \nNice to meet you %44$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+44 : b'AAAABBBB 0x8048520| 1\xed^\x89\xe1\x83\xe4\xf0PTR\xe8#\nNice to meet you AAAABBBB %44$p| %44$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-45 : b'(nil)| \nNice to meet you %45$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+45 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %45$p| %45$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-46 : b'0xf7f632f0| \nNice to meet you %46$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+46 : b'AAAABBBB 0xf7fd82f0| Z\x8b\x0c$\x89\x04$\x8bD$\x04\xc2\x0c\nNice to meet you AAAABBBB %46$p| %46$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-47 : b'0xf7d48d09| \nNice to meet you %47$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+47 : b'AAAABBBB 0xf7c90d09| \x81\xc3\x0b\xe1 \nNice to meet you AAAABBBB %47$p| %47$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-48 : b'0x804a000| \nNice to meet you %48$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+48 : b'AAAABBBB 0x804a000| \x0c\x9f\x04\x08`j\xfe\xf7\xe0\x12\xfc\xf7\xb0\x19\xdd\xf7P~\xda\xf7\x86\x84\x04\x08\xe0\x81\xdc\xf7\xf0g\xe2\xf7\xa0\xa2\xdc\xf7\nNice to meet you AAAABBBB %48$p| %48$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-49 : b'0x1| \nNice to meet you %49$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+49 : b''
 --------------------------------------------------
 
-50 : b'0x8048520| \nNice to meet you %50$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+50 : b'AAAABBBB 0x8048520| 1\xed^\x89\xe1\x83\xe4\xf0PTR\xe8#\nNice to meet you AAAABBBB %50$p| %50$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-51 : b'(nil)| \nNice to meet you %51$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+51 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %51$p| %51$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-52 : b'0x8048552| \nNice to meet you %52$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+52 : b'AAAABBBB 0x8048552| \xf4\x8b\x1c$\xc3f\x90f\x90f\x90f\x90\x90\xf3\xc3f\x90f\x90f\x90f\x90f\x90f\x90f\x90\x8b\x1c$\xc3f\x90f\x90f\x90f\x90f\x90f\x90\xb8@\xa0\x04\x08=@\xa0\x04\x08t$\xb8\nNice to meet you AAAABBBB %52$p| %52$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-53 : b'0x8048775| \nNice to meet you %53$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+53 : b'AAAABBBB 0x8048775| U\x89\xe5S\xe8\xf2\xfd\xff\xff\x81\xc3\x82\x18\nNice to meet you AAAABBBB %53$p| %53$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-54 : b'0x1| \nNice to meet you %54$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+54 : b''
 --------------------------------------------------
 
-55 : b'0xffda1fa4| \nNice to meet you %55$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+55 : b'AAAABBBB 0xffb81864| \xa5*\xb8\xff\nNice to meet you AAAABBBB %55$p| %55$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-56 : b'0x80487f0| \nNice to meet you %56$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+56 : b'AAAABBBB 0x80487f0| UWVS\xe8w\xfd\xff\xff\x81\xc3\x07\x18\nNice to meet you AAAABBBB %56$p| %56$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-57 : b'0x8048850| \nNice to meet you %57$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+57 : b'AAAABBBB 0x8048850| \xf3\xc3\nNice to meet you AAAABBBB %57$p| %57$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-58 : b'0xf7fa4cc0| \nNice to meet you %58$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+58 : b'AAAABBBB 0xf7faecc0| U\x8d\x15\x14\nNice to meet you AAAABBBB %58$p| %58$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-59 : b'0xffb225fc| \nNice to meet you %59$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+59 : b'AAAABBBB 0xfff4e75c| `\xaa\xf6\xf7\x01\nNice to meet you AAAABBBB %59$p| %59$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-60 : b'0xf7fa7a60| \nNice to meet you %60$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+60 : b'AAAABBBB 0xf7fe4a60| \nNice to meet you AAAABBBB %60$p| %60$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-61 : b'0x1| \nNice to meet you %61$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+61 : b''
 --------------------------------------------------
 
-62 : b'0xffe39aa6| \nNice to meet you %62$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+62 : b'AAAABBBB 0xffab2aa5| ./favourite-number\nNice to meet you AAAABBBB %62$p| %62$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-63 : b'(nil)| \nNice to meet you %63$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+63 : b'AAAABBBB (nil)| (null)\nNice to meet you AAAABBBB %63$p| %63$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-64 : b'0xffa78ab9| \nNice to meet you %64$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+64 : b'AAAABBBB 0xffd51ab8| LESS_TERMCAP_se=\x1b[0m\nNice to meet you AAAABBBB %64$p| %64$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-65 : b'0xffd6face| \nNice to meet you %65$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+65 : b'AAAABBBB 0xffec4acd| POWERSHELL_TELEMETRY_OPTOUT=1\nNice to meet you AAAABBBB %65$p| %65$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-66 : b'0xff9f2aec| \nNice to meet you %66$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+66 : b'AAAABBBB 0xff8ffaeb| MAIL=/var/mail/k-730\nNice to meet you AAAABBBB %66$p| %66$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-67 : b'0xff902b01| \nNice to meet you %67$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+67 : b'AAAABBBB 0xffb85b00| USER=k-730\nNice to meet you AAAABBBB %67$p| %67$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-68 : b'0xffcc8b0c| \nNice to meet you %68$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+68 : b'AAAABBBB 0xfffbab0b| LESS_TERMCAP_ue=\x1b[0m\nNice to meet you AAAABBBB %68$p| %68$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-69 : b'0xffa23b21| \nNice to meet you %69$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+69 : b'AAAABBBB 0xffe9bb20| XDG_SEAT=seat0\nNice to meet you AAAABBBB %69$p| %69$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-70 : b'0xffa8db30| \nNice to meet you %70$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+70 : b'AAAABBBB 0xffdf5b2f| DOTNET_CLI_TELEMETRY_OPTOUT=1\nNice to meet you AAAABBBB %70$p| %70$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-71 : b'0xfff57b4e| \nNice to meet you %71$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+71 : b'AAAABBBB 0xffeddb4d| XDG_SESSION_TYPE=tty\nNice to meet you AAAABBBB %71$p| %71$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-72 : b'0xfff3cb63| \nNice to meet you %72$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+72 : b'AAAABBBB 0xffd7fb62| SSH_AGENT_PID=1944\nNice to meet you AAAABBBB %72$p| %72$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-73 : b'0xffd3fb76| \nNice to meet you %73$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+73 : b'AAAABBBB 0xfff8eb75| SHLVL=3\nNice to meet you AAAABBBB %73$p| %73$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-74 : b'0xffd21b7e| \nNice to meet you %74$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+74 : b'AAAABBBB 0xffa43b7d| HOME=/home/k-730\nNice to meet you AAAABBBB %74$p| %74$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-75 : b'0xffc12b8f| \nNice to meet you %75$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+75 : b'AAAABBBB 0xff890b8e| MOTD_SHOWN=pam\nNice to meet you AAAABBBB %75$p| %75$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-76 : b'0xffcfbb9e| \nNice to meet you %76$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+76 : b'AAAABBBB 0xffd23b9d| OLDPWD=/home/k-730/COMP6841/wk4\nNice to meet you AAAABBBB %76$p| %76$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-77 : b'0xffb39bbe| \nNice to meet you %77$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+77 : b'AAAABBBB 0xffd2abbd| GTK_MODULES=gail:atk-bridge\nNice to meet you AAAABBBB %77$p| %77$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-78 : b'0xffbaebda| \nNice to meet you %78$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+78 : b'AAAABBBB 0xffd97bd9| LESS_TERMCAP_so=\x1b[01;33m\nNice to meet you AAAABBBB %78$p| %78$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-79 : b'0xffeacbf3| \nNice to meet you %79$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+79 : b'AAAABBBB 0xff8fabf2| DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus\nNice to meet you AAAABBBB %79$p| %79$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-80 : b'0xff9e8c29| \nNice to meet you %80$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+80 : b'AAAABBBB 0xffc77c28| NMAP_PRIVILEGED=\nNice to meet you AAAABBBB %80$p| %80$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-81 : b'0xffc37c3a| \nNice to meet you %81$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+81 : b'AAAABBBB 0xffd4fc39| PGHOME=/home/k-730/postgres13\nNice to meet you AAAABBBB %81$p| %81$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-82 : b'0xfff67c58| \nNice to meet you %82$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+82 : b'AAAABBBB 0xffecec57| COMMAND_NOT_FOUND_INSTALL_PROMPT=1\nNice to meet you AAAABBBB %82$p| %82$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-83 : b'0xffd84c7b| \nNice to meet you %83$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+83 : b'AAAABBBB 0xffdc0c7a| QT_QPA_PLATFORMTHEME=qt5ct\nNice to meet you AAAABBBB %83$p| %83$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-84 : b'0xff924c96| \nNice to meet you %84$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+84 : b'AAAABBBB 0xffc55c95| LOGNAME=k-730\nNice to meet you AAAABBBB %84$p| %84$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-85 : b'0xfff8cca4| \nNice to meet you %85$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+85 : b'AAAABBBB 0xffa8bca3| GTK_IM_MODULE=ibus\nNice to meet you AAAABBBB %85$p| %85$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-86 : b'0xfff19cb7| \nNice to meet you %86$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+86 : b'AAAABBBB 0xff894cb6| QT_AUTO_SCREEN_SCALE_FACTOR=0\nNice to meet you AAAABBBB %86$p| %86$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-87 : b'0xffec0cd5| \nNice to meet you %87$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+87 : b'AAAABBBB 0xffd8ecd4| LESS_TERMCAP_us=\x1b[1;32m\nNice to meet you AAAABBBB %87$p| %87$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-88 : b'0xff8d1ced| \nNice to meet you %88$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+88 : b'AAAABBBB 0xff8cbcec| _=/home/k-730/COMP6841/.venv/bin/python3\nNice to meet you AAAABBBB %88$p| %88$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-89 : b'0xfffc1d15| \nNice to meet you %89$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+89 : b'AAAABBBB 0xffdedd15| XDG_SESSION_CLASS=user\nNice to meet you AAAABBBB %89$p| %89$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-90 : b'0xffbf7d2c| \nNice to meet you %90$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+90 : b'AAAABBBB 0xfff55d2c| TERM=xterm-256color\nNice to meet you AAAABBBB %90$p| %90$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-91 : b'0xff8dcd40| \nNice to meet you %91$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+91 : b'AAAABBBB 0xffc01d40| XDG_SESSION_ID=2\nNice to meet you AAAABBBB %91$p| %91$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-92 : b'0xffb25d51| \nNice to meet you %92$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+92 : b'AAAABBBB 0xffa1cd51| WINDOWPATH=2\nNice to meet you AAAABBBB %92$p| %92$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-93 : b'0xffd35d5e| \nNice to meet you %93$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+93 : b'AAAABBBB 0xffdf9d5e| PATH=/home/k-730/.vscode/extensions/ms-python.python-2025.8.0-linux-x64/python_files/deactivate/zsh:/home/k-730/COMP6841/.venv/bin:/home/k-730/.vscode/extensions/ms-python.python-2025.8.0-linux-x64/python_files/deactivate/zsh:/home/k-730/COMP6841/.venv/bin:/home/k-730/postgres17/src/bin:/home/k-730/postgres17/src/bin:/home/k-730/postgres17/src/bin:/home/k-730/postgres17/src/bin:/home/k-730/postgres17/src/bin:/home/k-730/postgres17/src/bin:/home/k-730/postgres17/src/bin:/home/k-730/postgres17/src/bin:/home/k-730/postgres17/src/bin:/home/k-730/postgres17/src/bin:/home/k-730/postgres17/src/bin:/bin:/home/k-730/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin:/home/k-730/.dotnet/tools:/home/k-730/.local/share/gem/ruby/3.1.0/bin:/opt/PostgreSQL/bin\nNice to meet you AAAABBBB %93$p| %93$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-94 : b'0xfff9308d| \nNice to meet you %94$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+94 : b'AAAABBBB 0xffbe208d| GTK3_MODULES=xapp-gtk3-module\nNice to meet you AAAABBBB %94$p| %94$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-95 : b'0xffb1d0ab| \nNice to meet you %95$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+95 : b'AAAABBBB 0xffafd0ab| XDG_RUNTIME_DIR=/run/user/1000\nNice to meet you AAAABBBB %95$p| %95$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-96 : b'0xfff490ca| \nNice to meet you %96$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+96 : b'AAAABBBB 0xff8a00ca| POWERSHELL_UPDATECHECK=Off\nNice to meet you AAAABBBB %96$p| %96$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-97 : b'0xff8790e5| \nNice to meet you %97$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+97 : b'AAAABBBB 0xffdc90e5| LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.7z=01;31:*.ace=01;31:*.alz=01;31:*.apk=01;31:*.arc=01;31:*.arj=01;31:*.bz=01;31:*.bz2=01;31:*.cab=01;31:*.cpio=01;31:*.crate=01;31:*.deb=01;31:*.drpm=01;31:*.dwm=01;31:*.dz=01;31:*.ear=01;31:*.egg=01;31:*.esd=01;31:*.gz=01;31:*.jar=01;31:*.lha=01;31:*.lrz=01;31:*.lz=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.lzo=01;31:*.pyz=01;31:*.rar=01;31:*.rpm=01;31:*.rz=01;31:*.sar=01;31:*.swm=01;31:*.t7z=01;31:*.tar=01;31:*.taz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tgz=01;31:*.tlz=01;31:*.txz=01;31:*.tz=01;31:*.tzo=01;31:*.tzst=01;31:*.udeb=01;31:*.war=01;31:*.whl=01;31:*.wim=01;31:*.xz=01;31:*.z=01;31:*.zip=01;31:*.zoo=01;31:*.zst=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.jxl=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90::ow=30;44:\nNice to meet you AAAABBBB %97$p| %97$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-98 : b'0xffe6c86c| \nNice to meet you %98$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+98 : b'AAAABBBB 0xff9d986c| XAUTHORITY=/home/k-730/.Xauthority\nNice to meet you AAAABBBB %98$p| %98$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
-99 : b'0xffac788f| \nNice to meet you %99$p| \n\nMany have tried, but I have a hatred for small numbers!\n'
+99 : b'AAAABBBB 0xffb8d88f| XMODIFIERS=@im=ibus\nNice to meet you AAAABBBB %99$p| %99$s\n\nMany have tried, but I have a hatred for small numbers!\n'
 --------------------------------------------------
 
 Flag: 

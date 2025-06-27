@@ -1,0 +1,2208 @@
+[*] '/home/k-730/COMP6841/wk4/mathTest/math-test'
+    Arch:       i386-32-little
+    RELRO:      Partial RELRO
+    Stack:      No canary found
+    NX:         NX enabled
+    PIE:        No PIE (0x8048000)
+    Stripped:   No
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966556
+[*] [b'AAAABBBB %0$p, %0$x']
+[x] Receiving all data
+[x] Receiving all data: 108B
+[*] Process './math-test' stopped with exit code 0 (pid 966556)
+[x] Receiving all data: 168B
+[+] Receiving all data: Done (168B)
+0 : b"Nice to meet you AAAABBBB %0$p, %0$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966557
+[*] [b'AAAABBBB 0x41414141, 41414141']
+[x] Receiving all data
+[x] Receiving all data: 108B
+[*] Process './math-test' stopped with exit code 0 (pid 966557)
+[x] Receiving all data: 168B
+[+] Receiving all data: Done (168B)
+1 : b"Nice to meet you AAAABBBB %1$p, %1$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966558
+[*] [b'AAAABBBB 0x42424242, 42424242']
+[x] Receiving all data
+[x] Receiving all data: 108B
+[*] Process './math-test' stopped with exit code 0 (pid 966558)
+[x] Receiving all data: 168B
+[+] Receiving all data: Done (168B)
+2 : b"Nice to meet you AAAABBBB %2$p, %2$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966559
+[*] [b'AAAABBBB 0x24332520, 24332520']
+[x] Receiving all data
+[x] Receiving all data: 108B
+[*] Process './math-test' stopped with exit code 0 (pid 966559)
+[x] Receiving all data: 168B
+[+] Receiving all data: Done (168B)
+3 : b"Nice to meet you AAAABBBB %3$p, %3$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966560
+[*] [b'AAAABBBB 0x25202c70, 25202c70']
+[x] Receiving all data
+[x] Receiving all data: 108B
+[*] Process './math-test' stopped with exit code 0 (pid 966560)
+[x] Receiving all data: 168B
+[+] Receiving all data: Done (168B)
+4 : b"Nice to meet you AAAABBBB %4$p, %4$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966561
+[*] [b'AAAABBBB 0xa782435, a782435']
+[x] Receiving all data
+[x] Receiving all data: 108B
+[*] Process './math-test' stopped with exit code 0 (pid 966561)
+[x] Receiving all data: 168B
+[+] Receiving all data: Done (168B)
+5 : b"Nice to meet you AAAABBBB %5$p, %5$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966562
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 108B
+[*] Process './math-test' stopped with exit code 0 (pid 966562)
+[x] Receiving all data: 168B
+[+] Receiving all data: Done (168B)
+6 : b"Nice to meet you AAAABBBB %6$p, %6$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966563
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 108B
+[x] Receiving all data: 168B
+[*] Process './math-test' stopped with exit code 0 (pid 966563)
+[+] Receiving all data: Done (168B)
+7 : b"Nice to meet you AAAABBBB %7$p, %7$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966564
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 108B
+[x] Receiving all data: 168B
+[*] Process './math-test' stopped with exit code 0 (pid 966564)
+[+] Receiving all data: Done (168B)
+8 : b"Nice to meet you AAAABBBB %8$p, %8$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966565
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 108B
+[*] Process './math-test' stopped with exit code 0 (pid 966565)
+[x] Receiving all data: 168B
+[+] Receiving all data: Done (168B)
+9 : b"Nice to meet you AAAABBBB %9$p, %9$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966566
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966566)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+10 : b"Nice to meet you AAAABBBB %10$p, %10$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966567
+[*] [b'AAAABBBB 0x804a000, 804a000']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966567)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+11 : b"Nice to meet you AAAABBBB %11$p, %11$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966568
+[*] [b'AAAABBBB 0xffdc17a8, ffdc17a8']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966568)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+12 : b"Nice to meet you AAAABBBB %12$p, %12$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966569
+[*] [b'AAAABBBB 0x8048883, 8048883']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966569)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+13 : b"Nice to meet you AAAABBBB %13$p, %13$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966570
+[*] [b'AAAABBBB 0xf7f18e14, f7f18e14']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966570)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+14 : b"Nice to meet you AAAABBBB %14$p, %14$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966571
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966571)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+15 : b"Nice to meet you AAAABBBB %15$p, %15$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966572
+[*] [b'AAAABBBB 0xf7d47cc3, f7d47cc3']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966572)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+16 : b"Nice to meet you AAAABBBB %16$p, %16$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966573
+[*] [b'AAAABBBB 0x1, 1']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966573)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+17 : b"Nice to meet you AAAABBBB %17$p, %17$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966574
+[*] [b'AAAABBBB 0xffd0dad4, ffd0dad4']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966574)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+18 : b"Nice to meet you AAAABBBB %18$p, %18$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966575
+[*] [b'AAAABBBB 0xffc40a0c, ffc40a0c']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966575)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+19 : b"Nice to meet you AAAABBBB %19$p, %19$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966576
+[*] [b'AAAABBBB 0xff9d82d0, ff9d82d0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966576)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+20 : b"Nice to meet you AAAABBBB %20$p, %20$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966577
+[*] [b'AAAABBBB 0xf7f7fe14, f7f7fe14']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966577)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+21 : b"Nice to meet you AAAABBBB %21$p, %21$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966578
+[*] [b'AAAABBBB 0x80487ed, 80487ed']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966578)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+22 : b"Nice to meet you AAAABBBB %22$p, %22$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966579
+[*] [b'AAAABBBB 0x1, 1']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966579)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+23 : b"Nice to meet you AAAABBBB %23$p, %23$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966580
+[*] [b'AAAABBBB 0xff964ba4, ff964ba4']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966580)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+24 : b"Nice to meet you AAAABBBB %24$p, %24$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966581
+[*] [b'AAAABBBB 0xf7f4de14, f7f4de14']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966581)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+25 : b"Nice to meet you AAAABBBB %25$p, %25$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966582
+[*] [b'AAAABBBB 0x8048890, 8048890']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966582)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+26 : b"Nice to meet you AAAABBBB %26$p, %26$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966583
+[*] [b'AAAABBBB 0xf7fa1b60, f7fa1b60']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966583)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+27 : b"Nice to meet you AAAABBBB %27$p, %27$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966584
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966584)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+28 : b"Nice to meet you AAAABBBB %28$p, %28$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966585
+[*] [b'AAAABBBB 0x5303b30, 5303b30']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966585)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+29 : b"Nice to meet you AAAABBBB %29$p, %29$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966586
+[*] [b'AAAABBBB 0x953d602, 953d602']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966586)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+30 : b"Nice to meet you AAAABBBB %30$p, %30$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966587
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966587)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+31 : b"Nice to meet you AAAABBBB %31$p, %31$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966588
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966588)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+32 : b"Nice to meet you AAAABBBB %32$p, %32$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966589
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966589)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+33 : b"Nice to meet you AAAABBBB %33$p, %33$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966590
+[*] [b'AAAABBBB 0xf7f0fb60, f7f0fb60']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966590)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+34 : b"Nice to meet you AAAABBBB %34$p, %34$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966591
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966591)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+35 : b"Nice to meet you AAAABBBB %35$p, %35$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966592
+[*] [b'AAAABBBB 0xf2ae9700, f2ae9700']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966592)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+36 : b"Nice to meet you AAAABBBB %36$p, %36$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966593
+[*] [b'AAAABBBB 0xf7f52a60, f7f52a60']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966593)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+37 : b"Nice to meet you AAAABBBB %37$p, %37$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966594
+[*] [b'AAAABBBB 0xf7cc7c56, f7cc7c56']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966594)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+38 : b"Nice to meet you AAAABBBB %38$p, %38$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966595
+[*] [b'AAAABBBB 0xf7f10e14, f7f10e14']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966595)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+39 : b"Nice to meet you AAAABBBB %39$p, %39$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966596
+[*] [b'AAAABBBB 0xf7d4ad88, f7d4ad88']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966596)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+40 : b"Nice to meet you AAAABBBB %40$p, %40$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966597
+[*] [b'AAAABBBB 0xf7f23ac4, f7f23ac4']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966597)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+41 : b"Nice to meet you AAAABBBB %41$p, %41$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966598
+[*] [b'AAAABBBB 0x804a000, 804a000']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966598)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+42 : b"Nice to meet you AAAABBBB %42$p, %42$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966599
+[*] [b'AAAABBBB 0x1, 1']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966599)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+43 : b"Nice to meet you AAAABBBB %43$p, %43$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966600
+[*] [b'AAAABBBB 0x8048550, 8048550']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966600)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+44 : b"Nice to meet you AAAABBBB %44$p, %44$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966601
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966601)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+45 : b"Nice to meet you AAAABBBB %45$p, %45$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966602
+[*] [b'AAAABBBB 0xf7f7d2f0, f7f7d2f0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966602)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+46 : b"Nice to meet you AAAABBBB %46$p, %46$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966603
+[*] [b'AAAABBBB 0xf7d14d09, f7d14d09']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966603)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+47 : b"Nice to meet you AAAABBBB %47$p, %47$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966604
+[*] [b'AAAABBBB 0x804a000, 804a000']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966604)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+48 : b"Nice to meet you AAAABBBB %48$p, %48$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966605
+[*] [b'AAAABBBB 0x1, 1']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966605)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+49 : b"Nice to meet you AAAABBBB %49$p, %49$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966606
+[*] [b'AAAABBBB 0x8048550, 8048550']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966606)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+50 : b"Nice to meet you AAAABBBB %50$p, %50$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966607
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966607)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+51 : b"Nice to meet you AAAABBBB %51$p, %51$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966608
+[*] [b'AAAABBBB 0x8048582, 8048582']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966608)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+52 : b"Nice to meet you AAAABBBB %52$p, %52$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966609
+[*] [b'AAAABBBB 0x80487ed, 80487ed']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966609)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+53 : b"Nice to meet you AAAABBBB %53$p, %53$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966610
+[*] [b'AAAABBBB 0x1, 1']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966610)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+54 : b"Nice to meet you AAAABBBB %54$p, %54$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966611
+[*] [b'AAAABBBB 0xffdacf64, ffdacf64']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966611)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+55 : b"Nice to meet you AAAABBBB %55$p, %55$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966612
+[*] [b'AAAABBBB 0x8048890, 8048890']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966612)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+56 : b"Nice to meet you AAAABBBB %56$p, %56$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966613
+[*] [b'AAAABBBB 0x80488f0, 80488f0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966613)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+57 : b"Nice to meet you AAAABBBB %57$p, %57$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966614
+[*] [b'AAAABBBB 0xf7f16cc0, f7f16cc0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966614)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+58 : b"Nice to meet you AAAABBBB %58$p, %58$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966615
+[*] [b'AAAABBBB 0xff949bbc, ff949bbc']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966615)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+59 : b"Nice to meet you AAAABBBB %59$p, %59$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966616
+[*] [b'AAAABBBB 0xf7f13a60, f7f13a60']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966616)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+60 : b"Nice to meet you AAAABBBB %60$p, %60$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966617
+[*] [b'AAAABBBB 0x1, 1']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966617)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+61 : b"Nice to meet you AAAABBBB %61$p, %61$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966618
+[*] [b'AAAABBBB 0xffc52ac6, ffc52ac6']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966618)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+62 : b"Nice to meet you AAAABBBB %62$p, %62$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966619
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966619)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+63 : b"Nice to meet you AAAABBBB %63$p, %63$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966620
+[*] [b'AAAABBBB 0xffca7ad2, ffca7ad2']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966620)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+64 : b"Nice to meet you AAAABBBB %64$p, %64$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966621
+[*] [b'AAAABBBB 0xfff4cae7, fff4cae7']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966621)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+65 : b"Nice to meet you AAAABBBB %65$p, %65$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966622
+[*] [b'AAAABBBB 0xff81db05, ff81db05']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966622)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+66 : b"Nice to meet you AAAABBBB %66$p, %66$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966623
+[*] [b'AAAABBBB 0xffc9eb1a, ffc9eb1a']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966623)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+67 : b"Nice to meet you AAAABBBB %67$p, %67$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966624
+[*] [b'AAAABBBB 0xffa09b25, ffa09b25']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966624)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+68 : b"Nice to meet you AAAABBBB %68$p, %68$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966625
+[*] [b'AAAABBBB 0xffa31b3a, ffa31b3a']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966625)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+69 : b"Nice to meet you AAAABBBB %69$p, %69$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966626
+[*] [b'AAAABBBB 0xff874b49, ff874b49']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966626)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+70 : b"Nice to meet you AAAABBBB %70$p, %70$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966628
+[*] [b'AAAABBBB 0xffcc4b67, ffcc4b67']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966628)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+71 : b"Nice to meet you AAAABBBB %71$p, %71$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966632
+[*] [b'AAAABBBB 0xffce9b7c, ffce9b7c']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966632)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+72 : b"Nice to meet you AAAABBBB %72$p, %72$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966633
+[*] [b'AAAABBBB 0xffa3bb8f, ffa3bb8f']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966633)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+73 : b"Nice to meet you AAAABBBB %73$p, %73$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966634
+[*] [b'AAAABBBB 0xffac4b97, ffac4b97']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966634)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+74 : b"Nice to meet you AAAABBBB %74$p, %74$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966635
+[*] [b'AAAABBBB 0xffbbaba8, ffbbaba8']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966635)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+75 : b"Nice to meet you AAAABBBB %75$p, %75$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966636
+[*] [b'AAAABBBB 0xffc59bb7, ffc59bb7']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966636)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+76 : b"Nice to meet you AAAABBBB %76$p, %76$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966639
+[*] [b'AAAABBBB 0xffef4bde, ffef4bde']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966639)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+77 : b"Nice to meet you AAAABBBB %77$p, %77$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966644
+[*] [b'AAAABBBB 0xffc5bbfa, ffc5bbfa']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966644)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+78 : b"Nice to meet you AAAABBBB %78$p, %78$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966645
+[*] [b'AAAABBBB 0xff8abc13, ff8abc13']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966645)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+79 : b"Nice to meet you AAAABBBB %79$p, %79$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966646
+[*] [b'AAAABBBB 0xff948c49, ff948c49']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966646)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+80 : b"Nice to meet you AAAABBBB %80$p, %80$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1823\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966647
+[*] [b'AAAABBBB 0xffc63c5a, ffc63c5a']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966647)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+81 : b"Nice to meet you AAAABBBB %81$p, %81$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966648
+[*] [b'AAAABBBB 0xfffb4c78, fffb4c78']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966648)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+82 : b"Nice to meet you AAAABBBB %82$p, %82$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966657
+[*] [b'AAAABBBB 0xfff36c9b, fff36c9b']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966657)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+83 : b"Nice to meet you AAAABBBB %83$p, %83$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966658
+[*] [b'AAAABBBB 0xffc59cb6, ffc59cb6']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966658)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+84 : b"Nice to meet you AAAABBBB %84$p, %84$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966659
+[*] [b'AAAABBBB 0xffc1fcc4, ffc1fcc4']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966659)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+85 : b"Nice to meet you AAAABBBB %85$p, %85$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966660
+[*] [b'AAAABBBB 0xffa7fcd7, ffa7fcd7']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966660)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+86 : b"Nice to meet you AAAABBBB %86$p, %86$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966661
+[*] [b'AAAABBBB 0xff991cf5, ff991cf5']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966661)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+87 : b"Nice to meet you AAAABBBB %87$p, %87$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966662
+[*] [b'AAAABBBB 0xffa12d0d, ffa12d0d']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966662)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+88 : b"Nice to meet you AAAABBBB %88$p, %88$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966663
+[*] [b'AAAABBBB 0xff8fbd35, ff8fbd35']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966663)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+89 : b"Nice to meet you AAAABBBB %89$p, %89$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966664
+[*] [b'AAAABBBB 0xffafad4c, ffafad4c']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966664)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+90 : b"Nice to meet you AAAABBBB %90$p, %90$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966665
+[*] [b'AAAABBBB 0xffbead60, ffbead60']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966665)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+91 : b"Nice to meet you AAAABBBB %91$p, %91$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966667
+[*] [b'AAAABBBB 0xffeaad71, ffeaad71']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966667)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+92 : b"Nice to meet you AAAABBBB %92$p, %92$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966668
+[*] [b'AAAABBBB 0xffc5dd7e, ffc5dd7e']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966668)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+93 : b"Nice to meet you AAAABBBB %93$p, %93$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966669
+[*] [b'AAAABBBB 0xff9b20ad, ff9b20ad']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966669)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+94 : b"Nice to meet you AAAABBBB %94$p, %94$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966670
+[*] [b'AAAABBBB 0xff88e0cb, ff88e0cb']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966670)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+95 : b"Nice to meet you AAAABBBB %95$p, %95$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966671
+[*] [b'AAAABBBB 0xffa190ea, ffa190ea']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966671)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+96 : b"Nice to meet you AAAABBBB %96$p, %96$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966672
+[*] [b'AAAABBBB 0xffee6105, ffee6105']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966672)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+97 : b"Nice to meet you AAAABBBB %97$p, %97$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966673
+[*] [b'AAAABBBB 0xff8cb88c, ff8cb88c']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966673)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+98 : b"Nice to meet you AAAABBBB %98$p, %98$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966674
+[*] [b'AAAABBBB 0xff8c08af, ff8c08af']
+[x] Receiving all data
+[x] Receiving all data: 110B
+[*] Process './math-test' stopped with exit code 0 (pid 966674)
+[x] Receiving all data: 170B
+[+] Receiving all data: Done (170B)
+99 : b"Nice to meet you AAAABBBB %99$p, %99$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966675
+[*] [b'AAAABBBB 0xfffb18c3, fffb18c3']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966675)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+100 : b"Nice to meet you AAAABBBB %100$p, %100$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966676
+[*] [b'AAAABBBB 0xffcbe8f2, ffcbe8f2']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966676)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+101 : b"Nice to meet you AAAABBBB %101$p, %101$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966677
+[*] [b'AAAABBBB 0xffa53905, ffa53905']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966677)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+102 : b"Nice to meet you AAAABBBB %102$p, %102$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966678
+[*] [b'AAAABBBB 0xffee6918, ffee6918']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966678)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+103 : b"Nice to meet you AAAABBBB %103$p, %103$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966679
+[*] [b'AAAABBBB 0xfffa8930, fffa8930']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966679)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+104 : b"Nice to meet you AAAABBBB %104$p, %104$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966680
+[*] [b'AAAABBBB 0xffc5c93b, ffc5c93b']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966680)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+105 : b"Nice to meet you AAAABBBB %105$p, %105$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966681
+[*] [b'AAAABBBB 0xffe01953, ffe01953']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966681)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+106 : b"Nice to meet you AAAABBBB %106$p, %106$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966682
+[*] [b'AAAABBBB 0xffa11965, ffa11965']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966682)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+107 : b"Nice to meet you AAAABBBB %107$p, %107$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966683
+[*] [b'AAAABBBB 0xffa99974, ffa99974']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966683)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+108 : b"Nice to meet you AAAABBBB %108$p, %108$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966684
+[*] [b'AAAABBBB 0xff85f99a, ff85f99a']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966684)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+109 : b"Nice to meet you AAAABBBB %109$p, %109$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966685
+[*] [b'AAAABBBB 0xffb3f9af, ffb3f9af']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966685)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+110 : b"Nice to meet you AAAABBBB %110$p, %110$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966686
+[*] [b'AAAABBBB 0xff944a12, ff944a12']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966686)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+111 : b"Nice to meet you AAAABBBB %111$p, %111$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966687
+[*] [b'AAAABBBB 0xff9f0a29, ff9f0a29']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966687)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+112 : b"Nice to meet you AAAABBBB %112$p, %112$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966688
+[*] [b'AAAABBBB 0xff87ca4a, ff87ca4a']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966688)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+113 : b"Nice to meet you AAAABBBB %113$p, %113$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966689
+[*] [b'AAAABBBB 0xffba7a98, ffba7a98']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966689)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+114 : b"Nice to meet you AAAABBBB %114$p, %114$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966690
+[*] [b'AAAABBBB 0xffc4bab7, ffc4bab7']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966690)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+115 : b"Nice to meet you AAAABBBB %115$p, %115$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966691
+[*] [b'AAAABBBB 0xfffbdac4, fffbdac4']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966691)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+116 : b"Nice to meet you AAAABBBB %116$p, %116$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966692
+[*] [b'AAAABBBB 0xff840ae0, ff840ae0']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966692)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+117 : b"Nice to meet you AAAABBBB %117$p, %117$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966693
+[*] [b'AAAABBBB 0xffe93b07, ffe93b07']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966693)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+118 : b"Nice to meet you AAAABBBB %118$p, %118$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966694
+[*] [b'AAAABBBB 0xffc9db17, ffc9db17']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966694)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+119 : b"Nice to meet you AAAABBBB %119$p, %119$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966695
+[*] [b'AAAABBBB 0xff927b21, ff927b21']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966695)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+120 : b"Nice to meet you AAAABBBB %120$p, %120$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966696
+[*] [b'AAAABBBB 0xffb41b35, ffb41b35']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966696)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+121 : b"Nice to meet you AAAABBBB %121$p, %121$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966697
+[*] [b'AAAABBBB 0xfffc1b40, fffc1b40']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966697)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+122 : b"Nice to meet you AAAABBBB %122$p, %122$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966698
+[*] [b'AAAABBBB 0xfffb0b4f, fffb0b4f']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966698)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+123 : b"Nice to meet you AAAABBBB %123$p, %123$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966699
+[*] [b'AAAABBBB 0xffa49b5e, ffa49b5e']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966699)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+124 : b"Nice to meet you AAAABBBB %124$p, %124$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966700
+[*] [b'AAAABBBB 0xff8bcb72, ff8bcb72']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966700)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+125 : b"Nice to meet you AAAABBBB %125$p, %125$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966701
+[*] [b'AAAABBBB 0xff934b8f, ff934b8f']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966701)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+126 : b"Nice to meet you AAAABBBB %126$p, %126$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966702
+[*] [b'AAAABBBB 0xffd27ba0, ffd27ba0']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[x] Receiving all data: 172B
+[*] Process './math-test' stopped with exit code 0 (pid 966702)
+[+] Receiving all data: Done (172B)
+127 : b"Nice to meet you AAAABBBB %127$p, %127$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966703
+[*] [b'AAAABBBB 0xffd5dbc1, ffd5dbc1']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966703)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+128 : b"Nice to meet you AAAABBBB %128$p, %128$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966704
+[*] [b'AAAABBBB 0xffe72c63, ffe72c63']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966704)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+129 : b"Nice to meet you AAAABBBB %129$p, %129$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966705
+[*] [b'AAAABBBB 0xffbb0cd1, ffbb0cd1']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966705)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+130 : b"Nice to meet you AAAABBBB %130$p, %130$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966706
+[*] [b'AAAABBBB 0xffb44d1a, ffb44d1a']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966706)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+131 : b"Nice to meet you AAAABBBB %131$p, %131$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966707
+[*] [b'AAAABBBB 0xffff9d47, ffff9d47']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966707)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+132 : b"Nice to meet you AAAABBBB %132$p, %132$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966708
+[*] [b'AAAABBBB 0xffd96d66, ffd96d66']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966708)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+133 : b"Nice to meet you AAAABBBB %133$p, %133$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966709
+[*] [b'AAAABBBB 0xffb70dc0, ffb70dc0']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966709)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+134 : b"Nice to meet you AAAABBBB %134$p, %134$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966710
+[*] [b'AAAABBBB 0xff94de00, ff94de00']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966710)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+135 : b"Nice to meet you AAAABBBB %135$p, %135$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966711
+[*] [b'AAAABBBB 0xffe22e27, ffe22e27']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966711)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+136 : b"Nice to meet you AAAABBBB %136$p, %136$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966712
+[*] [b'AAAABBBB 0xffd19e40, ffd19e40']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966712)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+137 : b"Nice to meet you AAAABBBB %137$p, %137$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966713
+[*] [b'AAAABBBB 0xffbf2e53, ffbf2e53']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966713)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+138 : b"Nice to meet you AAAABBBB %138$p, %138$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966714
+[*] [b'AAAABBBB 0xffd6de67, ffd6de67']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966714)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+139 : b"Nice to meet you AAAABBBB %139$p, %139$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966715
+[*] [b'AAAABBBB 0xff8b8e80, ff8b8e80']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966715)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+140 : b"Nice to meet you AAAABBBB %140$p, %140$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966716
+[*] [b'AAAABBBB 0xffb63f8e, ffb63f8e']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966716)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+141 : b"Nice to meet you AAAABBBB %141$p, %141$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966717
+[*] [b'AAAABBBB 0xffd8bfa3, ffd8bfa3']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966717)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+142 : b"Nice to meet you AAAABBBB %142$p, %142$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966718
+[*] [b'AAAABBBB 0xffc65fdb, ffc65fdb']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966718)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+143 : b"Nice to meet you AAAABBBB %143$p, %143$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966719
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966719)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+144 : b"Nice to meet you AAAABBBB %144$p, %144$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966720
+[*] [b'AAAABBBB 0x20, 20']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966720)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+145 : b"Nice to meet you AAAABBBB %145$p, %145$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966721
+[*] [b'AAAABBBB 0xf7f41570, f7f41570']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966721)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+146 : b"Nice to meet you AAAABBBB %146$p, %146$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966722
+[*] [b'AAAABBBB 0x21, 21']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966722)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+147 : b"Nice to meet you AAAABBBB %147$p, %147$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966723
+[*] [b'AAAABBBB 0xf7f2b000, f7f2b000']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966723)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+148 : b"Nice to meet you AAAABBBB %148$p, %148$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966724
+[*] [b'AAAABBBB 0x33, 33']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966724)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+149 : b"Nice to meet you AAAABBBB %149$p, %149$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966725
+[*] [b'AAAABBBB 0x7f0, 7f0']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966725)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+150 : b"Nice to meet you AAAABBBB %150$p, %150$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966726
+[*] [b'AAAABBBB 0x10, 10']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966726)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+151 : b"Nice to meet you AAAABBBB %151$p, %151$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966727
+[*] [b'AAAABBBB 0xbfebfbff, bfebfbff']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966727)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+152 : b"Nice to meet you AAAABBBB %152$p, %152$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966728
+[*] [b'AAAABBBB 0x6, 6']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966728)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+153 : b"Nice to meet you AAAABBBB %153$p, %153$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966729
+[*] [b'AAAABBBB 0x1000, 1000']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966729)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+154 : b"Nice to meet you AAAABBBB %154$p, %154$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966730
+[*] [b'AAAABBBB 0x11, 11']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966730)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+155 : b"Nice to meet you AAAABBBB %155$p, %155$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966731
+[*] [b'AAAABBBB 0x64, 64']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966731)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+156 : b"Nice to meet you AAAABBBB %156$p, %156$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966732
+[*] [b'AAAABBBB 0x3, 3']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966732)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+157 : b"Nice to meet you AAAABBBB %157$p, %157$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966733
+[*] [b'AAAABBBB 0x8048034, 8048034']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966733)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+158 : b"Nice to meet you AAAABBBB %158$p, %158$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966734
+[*] [b'AAAABBBB 0x4, 4']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966734)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+159 : b"Nice to meet you AAAABBBB %159$p, %159$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966735
+[*] [b'AAAABBBB 0x20, 20']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966735)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+160 : b"Nice to meet you AAAABBBB %160$p, %160$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966736
+[*] [b'AAAABBBB 0x5, 5']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966736)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+161 : b"Nice to meet you AAAABBBB %161$p, %161$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966737
+[*] [b'AAAABBBB 0x9, 9']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966737)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+162 : b"Nice to meet you AAAABBBB %162$p, %162$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966738
+[*] [b'AAAABBBB 0x7, 7']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966738)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+163 : b"Nice to meet you AAAABBBB %163$p, %163$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966739
+[*] [b'AAAABBBB 0xf7f8f000, f7f8f000']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966739)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+164 : b"Nice to meet you AAAABBBB %164$p, %164$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966740
+[*] [b'AAAABBBB 0x8, 8']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966740)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+165 : b"Nice to meet you AAAABBBB %165$p, %165$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966741
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966741)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+166 : b"Nice to meet you AAAABBBB %166$p, %166$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966742
+[*] [b'AAAABBBB 0x9, 9']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966742)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+167 : b"Nice to meet you AAAABBBB %167$p, %167$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966743
+[*] [b'AAAABBBB 0x8048550, 8048550']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966743)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+168 : b"Nice to meet you AAAABBBB %168$p, %168$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966744
+[*] [b'AAAABBBB 0xb, b']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966744)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+169 : b"Nice to meet you AAAABBBB %169$p, %169$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966745
+[*] [b'AAAABBBB 0x3e8, 3e8']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966745)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+170 : b"Nice to meet you AAAABBBB %170$p, %170$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966746
+[*] [b'AAAABBBB 0xc, c']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966746)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+171 : b"Nice to meet you AAAABBBB %171$p, %171$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966747
+[*] [b'AAAABBBB 0x3e8, 3e8']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966747)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+172 : b"Nice to meet you AAAABBBB %172$p, %172$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966748
+[*] [b'AAAABBBB 0xd, d']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966748)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+173 : b"Nice to meet you AAAABBBB %173$p, %173$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966749
+[*] [b'AAAABBBB 0x3e8, 3e8']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966749)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+174 : b"Nice to meet you AAAABBBB %174$p, %174$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966750
+[*] [b'AAAABBBB 0xe, e']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966750)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+175 : b"Nice to meet you AAAABBBB %175$p, %175$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966751
+[*] [b'AAAABBBB 0x3e8, 3e8']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966751)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+176 : b"Nice to meet you AAAABBBB %176$p, %176$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966752
+[*] [b'AAAABBBB 0x17, 17']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966752)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+177 : b"Nice to meet you AAAABBBB %177$p, %177$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966753
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966753)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+178 : b"Nice to meet you AAAABBBB %178$p, %178$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966754
+[*] [b'AAAABBBB 0x19, 19']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966754)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+179 : b"Nice to meet you AAAABBBB %179$p, %179$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966755
+[*] [b'AAAABBBB 0xffe1785b, ffe1785b']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966755)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+180 : b"Nice to meet you AAAABBBB %180$p, %180$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966756
+[*] [b'AAAABBBB 0x1a, 1a']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966756)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+181 : b"Nice to meet you AAAABBBB %181$p, %181$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966757
+[*] [b'AAAABBBB 0x2, 2']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966757)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+182 : b"Nice to meet you AAAABBBB %182$p, %182$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966758
+[*] [b'AAAABBBB 0x1f, 1f']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966758)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+183 : b"Nice to meet you AAAABBBB %183$p, %183$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966759
+[*] [b'AAAABBBB 0xffe49fec, ffe49fec']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966759)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+184 : b"Nice to meet you AAAABBBB %184$p, %184$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966760
+[*] [b'AAAABBBB 0xf, f']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966760)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+185 : b"Nice to meet you AAAABBBB %185$p, %185$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966761
+[*] [b'AAAABBBB 0xff809cab, ff809cab']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966761)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+186 : b"Nice to meet you AAAABBBB %186$p, %186$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966762
+[*] [b'AAAABBBB 0x1b, 1b']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966762)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+187 : b"Nice to meet you AAAABBBB %187$p, %187$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966763
+[*] [b'AAAABBBB 0x1c, 1c']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966763)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+188 : b"Nice to meet you AAAABBBB %188$p, %188$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966764
+[*] [b'AAAABBBB 0x1c, 1c']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966764)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+189 : b"Nice to meet you AAAABBBB %189$p, %189$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966765
+[*] [b'AAAABBBB 0x20, 20']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966765)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+190 : b"Nice to meet you AAAABBBB %190$p, %190$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966766
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966766)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+191 : b"Nice to meet you AAAABBBB %191$p, %191$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966767
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966767)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+192 : b"Nice to meet you AAAABBBB %192$p, %192$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966768
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966768)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+193 : b"Nice to meet you AAAABBBB %193$p, %193$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966769
+[*] [b'AAAABBBB (nil), 0']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966769)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+194 : b"Nice to meet you AAAABBBB %194$p, %194$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966770
+[*] [b'AAAABBBB 0xbb000000, bb000000']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966770)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+195 : b"Nice to meet you AAAABBBB %195$p, %195$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966771
+[*] [b'AAAABBBB 0x17baecd, 17baecd']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966771)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+196 : b"Nice to meet you AAAABBBB %196$p, %196$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966772
+[*] [b'AAAABBBB 0x218fc142, 218fc142']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966772)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+197 : b"Nice to meet you AAAABBBB %197$p, %197$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966773
+[*] [b'AAAABBBB 0x30fc56aa, 30fc56aa']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966773)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+198 : b"Nice to meet you AAAABBBB %198$p, %198$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+[x] Starting local process './math-test'
+[+] Starting local process './math-test': pid 966774
+[*] [b'AAAABBBB 0x6928a4d3, 6928a4d3']
+[x] Receiving all data
+[x] Receiving all data: 112B
+[*] Process './math-test' stopped with exit code 0 (pid 966774)
+[x] Receiving all data: 172B
+[+] Receiving all data: Done (172B)
+199 : b"Nice to meet you AAAABBBB %199$p, %199$x\n!\nI'm thinking of two random numbers, can you guess what their sum is?\nAs I expected, you were totally wrong, it was actually 1505\n"
+--------------------------------------------------
+
+Flag: 

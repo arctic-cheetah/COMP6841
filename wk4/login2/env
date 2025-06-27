@@ -1,0 +1,5 @@
+export CURR_PATH="wk4/login2"
+export REMOTE="$CURR_PATH/exploit.py REMOTE 170.64.222.246 6844"
+alias pythonExploit='~/COMP6841/.venv/bin/python'
+alias aslrOff='echo 0 | sudo tee /proc/sys/kernel/randomize_va_space'
+alias pipExploit='~/COMP6841/.venv/bin/pip'

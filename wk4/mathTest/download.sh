@@ -1,0 +1,3 @@
+wget https://ctfd.comp6841.xyz/files/73543759aa0832b4274300a960f3103b/math-test?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDN9.aF7X3g.BxzjSjpnwtI8V5Ui__j6DzhFD5c
+
+mv math-test?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDN9.aF7X3g.BxzjSjpnwtI8V5Ui__j6DzhFD5c math-test
