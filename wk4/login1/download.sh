@@ -1,0 +1,3 @@
+wget https://ctfd.comp6841.xyz/files/fff548a5a5ae807f187c1b91f6749a12/login1?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDB9.aF6vVg.4NsIetEa7zhp2AuRT5fwHhAzyA0
+
+mv login1?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDB9.aF6vVg.4NsIetEa7zhp2AuRT5fwHhAzyA0 login1

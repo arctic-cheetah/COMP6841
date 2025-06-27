@@ -1,0 +1,308 @@
+[*] '/home/k-730/COMP6841/wk4/login1/login1'
+    Arch:       i386-32-little
+    RELRO:      Partial RELRO
+    Stack:      No canary found
+    NX:         NX enabled
+    PIE:        No PIE (0x8048000)
+    Stripped:   No
+0 : b'%0$p| %0$s\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+1 : b'0x804bff4| \n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+2 : b'0xff8adc40| H\xdc\x8a\xff\xe8\x93\x04\x08\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+3 : b'0x804939b| \x83\xc4\x08\x85\xc0t\x1b\x8d\x83h\xe0\xff\xffP\xe8\xd2\xfc\xff\xff\x83\xc4\x04\xe8@\xfe\xff\xff\xb8\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+4 : b'0xffeea450| %4$p| %4$s\n\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+5 : b'0xffa5f3b8| temp123\n\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+6 : b''
+--------------------------------------------------
+
+7 : b''
+--------------------------------------------------
+
+8 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+9 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+10 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+11 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+12 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+13 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+14 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+15 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+16 : b''
+--------------------------------------------------
+
+17 : b''
+--------------------------------------------------
+
+18 : b''
+--------------------------------------------------
+
+19 : b''
+--------------------------------------------------
+
+20 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+21 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+22 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+23 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+24 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+25 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+26 : b'0x98161a0| \x88$\xad\xfb\xe8b\x81\t\xe8b\x81\t\xe0b\x81\t\xe0b\x81\t\xe0b\x81\t\xe0b\x81\t\xe0b\x81\t\xe0r\x81\t\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+27 : b'0xf7f53e14| \x0c-#\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+28 : b'0xff8edbd8| \n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+29 : b'0x80493e8| \xb8\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+30 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+31 : b'0xf7d29cc3| \x83\xc4\x10\x83\xec\x0cP\xe8\x01\x9e\x01\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+32 : b''
+--------------------------------------------------
+
+33 : b'0xff93c784| \xd5\xda\x93\xff\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+34 : b'0xffaefffc| \xde\n\xaf\xff\xf3\n\xaf\xff\x11\x0b\xaf\xff&\x0b\xaf\xff1\x0b\xaf\xffF\x0b\xaf\xffU\x0b\xaf\xffs\x0b\xaf\xff\x88\x0b\xaf\xff\x9b\x0b\xaf\xff\xa3\x0b\xaf\xff\xb4\x0b\xaf\xff\xc3\x0b\xaf\xff\xe3\x0b\xaf\xff\xff\x0b\xaf\xff\x18\x0c\xaf\xffN\x0c\xaf\xff_\x0c\xaf\xff}\x0c\xaf\xff\xa0\x0c\xaf\xff\xbb\x0c\xaf\xff\xc9\x0c\xaf\xff\xdc\x0c\xaf\xff\xfa\x0c\xaf\xff\x12\r\xaf\xff:\r\xaf\xffQ\r\xaf\xffe\r\xaf\xffv\r\xaf\xff\x83\r\xaf\xff\xb2\x10\xaf\xff\xd0\x10\xaf\xff\xef\x10\xaf\xff\n\x11\xaf\xff\x91\x18\xaf\xff\xb4\x18\xaf\xff\xc8\x18\xaf\xff\xf7\x18\xaf\xff\n\x19\xaf\xff\x1d\x19\xaf\xff5\x19\xaf\xff@\x19\xaf\xffX\x19\xaf\xffj\x19\xaf\xffy\x19\xaf\xff\x9d\x19\xaf\xff\xb2\x19\xaf\xff\x15\x1a\xaf\xff,\x1a\xaf\xffM\x1a\xaf\xff\x9b\x1a\xaf\xff\xba\x1a\xaf\xff\xc7\x1a\xaf\xff\xe3\x1a\xaf\xff\n\x1b\xaf\xff\x1a\x1b\xaf\xff$\x1b\xaf\xff8\x1b\xaf\xffC\x1b\xaf\xffR\x1b\xaf\xffa\x1b\xaf\xffu\x1b\xaf\xff\x92\x1b\xaf\xff\xa3\x1b\xaf\xff\xc4\x1b\xaf\xfff\x1c\xaf\xff\xd4\x1c\xaf\xff\x1d\x1d\xaf\xffJ\x1d\xaf\xffi\x1d\xaf\xff\xc3\x1d\xaf\xff\x03\x1e\xaf\xff*\x1e\xaf\xffC\x1e\xaf\xffV\x1e\xaf\xffj\x1e\xaf\xff\x83\x1e\xaf\xff\x91\x1f\xaf\xff\xa6\x1f\xaf\xff\xde\x1f\xaf\xff\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+35 : b'0xffc64350| \x14^\xf4\xf7\xfc\xbe\x04\x08`\xab\xfa\xf7\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+36 : b'0xf7eb9e14| \x0c-#\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+37 : b'0x804910d| \xe9\xc4\x02\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+38 : b''
+--------------------------------------------------
+
+39 : b'0xffad1b94| \xd5:\xad\xff\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+40 : b'0xf7f54e14| \x0c-#\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+41 : b'0x804befc| \xc0\x91\x04\x08\x01\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+42 : b'0xf7f47b60| \n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+43 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+44 : b''
+--------------------------------------------------
+
+45 : b''
+--------------------------------------------------
+
+46 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+47 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+48 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+49 : b'0xf7f46b60| \n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+50 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+51 : b''
+--------------------------------------------------
+
+52 : b'0xf7f6ba60| \n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+53 : b'0xf7c8dc56| \x81\xc3\xbe\xe1 \n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+54 : b'0xf7f68e14| \x0c-#\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+55 : b'0xf7d6ed88| \x8b\x93\xb0\x01\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+56 : b'0xf7f56ac4| \x18[\x03\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+57 : b'0x804befc| \xc0\x91\x04\x08\x01\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+58 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+59 : b'0xf7ff7000| `z\xff\xf7\x04\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+60 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+61 : b'0xf7f2c2f0| Z\x8b\x0c$\x89\x04$\x8bD$\x04\xc2\x0c\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+62 : b'0xf7d33d09| \x81\xc3\x0b\xe1 \n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+63 : b'0x804bff4| \n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+64 : b''
+--------------------------------------------------
+
+65 : b'0x80490e0| 1\xed^\x89\xe1\x83\xe4\xf0PTR\xe8\x19\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+66 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+67 : b'0x8049108| \xf4\x8b\x1c$\xc3\xe9\xc4\x02\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+68 : b'0x804910d| \xe9\xc4\x02\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+69 : b''
+--------------------------------------------------
+
+70 : b'0xfffbe994| \xd5\xfa\xfb\xff\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+71 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+72 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+73 : b'0xf7f13cc0| U\x8d\x15\x14\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+74 : b'0xffb2a3cc| `\xba\xfd\xf7\x01\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+75 : b'0xf7f76a60| \n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+76 : b''
+--------------------------------------------------
+
+77 : b'0xff94cad5| ./login1\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+78 : b'(nil)| (null)\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+79 : b'0xffd31ade| LESS_TERMCAP_se=\x1b[0m\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+80 : b'0xffc54af3| POWERSHELL_TELEMETRY_OPTOUT=1\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+81 : b'0xffc97b11| MAIL=/var/mail/k-730\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+82 : b'0xfffbcb26| USER=k-730\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+83 : b'0xffefcb31| LESS_TERMCAP_ue=\x1b[0m\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+84 : b'0xffaa6b46| XDG_SEAT=seat0\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+85 : b'0xff8d9b55| DOTNET_CLI_TELEMETRY_OPTOUT=1\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+86 : b'0xffe89b73| XDG_SESSION_TYPE=tty\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+87 : b'0xffa7cb88| SSH_AGENT_PID=1944\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+88 : b'0xffc72b9b| SHLVL=3\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+89 : b'0xffce7ba3| HOME=/home/k-730\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+90 : b'0xff919bb4| MOTD_SHOWN=pam\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+91 : b'0xfffcfbc3| OLDPWD=/home/k-730/COMP6841/wk4\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+92 : b'0xffa9ebe3| GTK_MODULES=gail:atk-bridge\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+93 : b'0xffa96bff| LESS_TERMCAP_so=\x1b[01;33m\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+94 : b'0xffc9cc18| DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+95 : b'0xffd49c4e| NMAP_PRIVILEGED=\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+96 : b'0xffc34c5f| PGHOME=/home/k-730/postgres13\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+97 : b'0xffa0bc7d| COMMAND_NOT_FOUND_INSTALL_PROMPT=1\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+98 : b'0xff9c6ca0| QT_QPA_PLATFORMTHEME=qt5ct\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+99 : b'0xfff9ccbb| LOGNAME=k-730\n\nLogin failed, try again next time!\n'
+--------------------------------------------------
+
+Flag: 
