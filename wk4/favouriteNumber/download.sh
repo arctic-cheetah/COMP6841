@@ -1,0 +1,3 @@
+wget https://ctfd.comp6841.xyz/files/ed133fff174311b973836c62dbc40911/favourite-number?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDJ9.aF5Lmg.X0yBhnTLbsOT3-jJa6FM2y-Qim4
+
+mv favourite-number?token=eyJ1c2VyX2lkIjozNSwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDJ9.aF5Lmg.X0yBhnTLbsOT3-jJa6FM2y-Qim4 favourite-number
