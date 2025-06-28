@@ -1,0 +1,994 @@
+[*] '/home/k-730/COMP6841/wk4/login2/login2'
+    Arch:       i386-32-little
+    RELRO:      Partial RELRO
+    Stack:      No canary found
+    NX:         NX enabled
+    PIE:        No PIE (0x8048000)
+    Stripped:   No
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362331
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362331)
+[x] Receiving all data: 79B
+[+] Receiving all data: Done (79B)
+0 : b" %0$p, %0$s\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362332
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362332)
+1 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362333
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362333)
+2 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362334
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362334)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+3 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362335
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362335)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+4 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362336
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362336)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+5 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362345
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362345)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+6 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362346
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362346)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+7 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362347
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362347)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+8 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362348
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362348)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+9 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362349
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362349)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+10 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362350
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362350)
+11 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362351
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362351)
+12 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362352
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362352)
+13 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362354
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362354)
+14 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362360
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362360)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+15 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362367
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362367)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+16 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362368
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362368)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+17 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362369
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362369)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+18 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362370
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362370)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+19 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362371
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362371)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+20 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362372
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362372)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+21 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362373
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362373)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+22 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362374
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362374)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+23 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362375
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362375)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+24 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362376
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362376)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+25 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362377
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362377)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+26 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362378
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362378)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+27 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362379
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362379)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+28 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362380
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362380)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+29 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362381
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362381)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+30 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362382
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362382)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+31 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362383
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362383)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+32 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362384
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362384)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+33 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362385
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362385)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+34 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362386
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362386)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+35 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362387
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362387)
+[x] Receiving all data: 116B
+[+] Receiving all data: Done (116B)
+36 : b" 0x92cb1a0, \x88$\xad\xfb\xe8\xb2,\t\xe8\xb2,\t\xe0\xb2,\t\xe0\xb2,\t\xe0\xb2,\t\xe0\xb2,\t\xe0\xb2,\t\xe0\xc2,\t\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362388
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362388)
+[x] Receiving all data: 84B
+[+] Receiving all data: Done (84B)
+37 : b" 0xf7ee9e14, \x0c-#\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362389
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362389)
+[x] Receiving all data: 81B
+[+] Receiving all data: Done (81B)
+38 : b" 0xffedae38, \n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362390
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362390)
+[x] Receiving all data: 81B
+[+] Receiving all data: Done (81B)
+39 : b" 0x80493a2, \xb8\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362391
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362391)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+40 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362392
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362392)
+[x] Receiving all data: 92B
+[+] Receiving all data: Done (92B)
+41 : b" 0xf7cb0cc3, \x83\xc4\x10\x83\xec\x0cP\xe8\x01\x9e\x01\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362393
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362393)
+42 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362394
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362394)
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+43 : b" 0xff9a7b84, \xcc\x9a\x9a\xff\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362395
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362395)
+[x] Receiving all data: 401B
+[+] Receiving all data: Done (401B)
+44 : b" 0xffdfd1dc, \xd5\xea\xdf\xff\xea\xea\xdf\xff\x08\xeb\xdf\xff\x1d\xeb\xdf\xff(\xeb\xdf\xff=\xeb\xdf\xffL\xeb\xdf\xffj\xeb\xdf\xff\x7f\xeb\xdf\xff\x92\xeb\xdf\xff\x9a\xeb\xdf\xff\xab\xeb\xdf\xff\xba\xeb\xdf\xff\xe3\xeb\xdf\xff\xff\xeb\xdf\xff\x18\xec\xdf\xffN\xec\xdf\xff_\xec\xdf\xff}\xec\xdf\xff\xa0\xec\xdf\xff\xbb\xec\xdf\xff\xc9\xec\xdf\xff\xdc\xec\xdf\xff\xfa\xec\xdf\xff\x12\xed\xdf\xff:\xed\xdf\xffQ\xed\xdf\xffe\xed\xdf\xffv\xed\xdf\xff\x83\xed\xdf\xff\xb2\xf0\xdf\xff\xd0\xf0\xdf\xff\xef\xf0\xdf\xff\n\xf1\xdf\xff\x91\xf8\xdf\xff\xb4\xf8\xdf\xff\xc8\xf8\xdf\xff\xf7\xf8\xdf\xff\n\xf9\xdf\xff\x1d\xf9\xdf\xff5\xf9\xdf\xff@\xf9\xdf\xffX\xf9\xdf\xffj\xf9\xdf\xffy\xf9\xdf\xff\x9d\xf9\xdf\xff\xb2\xf9\xdf\xff\x15\xfa\xdf\xff,\xfa\xdf\xffM\xfa\xdf\xff\x9b\xfa\xdf\xff\xba\xfa\xdf\xff\xc7\xfa\xdf\xff\xe3\xfa\xdf\xff\n\xfb\xdf\xff\x1a\xfb\xdf\xff$\xfb\xdf\xff8\xfb\xdf\xffC\xfb\xdf\xffR\xfb\xdf\xffa\xfb\xdf\xffu\xfb\xdf\xff\x92\xfb\xdf\xff\xa3\xfb\xdf\xff\xc4\xfb\xdf\xfff\xfc\xdf\xff\xd4\xfc\xdf\xff\x1d\xfd\xdf\xffJ\xfd\xdf\xffi\xfd\xdf\xff\xc3\xfd\xdf\xff\x03\xfe\xdf\xff*\xfe\xdf\xffC\xfe\xdf\xffV\xfe\xdf\xffj\xfe\xdf\xff\x83\xfe\xdf\xff\x91\xff\xdf\xff\xa6\xff\xdf\xff\xde\xff\xdf\xff\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362396
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362396)
+[x] Receiving all data: 93B
+[+] Receiving all data: Done (93B)
+45 : b" 0xffb46bb0, \x14n\xf3\xf7\xfc\xbe\x04\x08`\xbb\xf9\xf7\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362397
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362397)
+[x] Receiving all data: 84B
+[+] Receiving all data: Done (84B)
+46 : b" 0xf7f69e14, \x0c-#\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362398
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362398)
+[x] Receiving all data: 83B
+[+] Receiving all data: Done (83B)
+47 : b" 0x80490ed, \xe9\x9e\x02\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362399
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362399)
+48 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362400
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362400)
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+49 : b" 0xffbb1be4, \xcc:\xbb\xff\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362401
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362401)
+[x] Receiving all data: 84B
+[+] Receiving all data: Done (84B)
+50 : b" 0xf7f1fe14, \x0c-#\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362402
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362402)
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+51 : b" 0x804befc, \xa0\x91\x04\x08\x01\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362403
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362403)
+[x] Receiving all data: 81B
+[+] Receiving all data: Done (81B)
+52 : b" 0xf7fe2b60, \n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362404
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362404)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+53 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362405
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362405)
+54 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362406
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362406)
+55 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362407
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362407)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+56 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362408
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362408)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+57 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362409
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362409)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+58 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362410
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362410)
+[x] Receiving all data: 81B
+[+] Receiving all data: Done (81B)
+59 : b" 0xf7f38b60, \n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362411
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362411)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+60 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362412
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362412)
+61 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362413
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362413)
+[x] Receiving all data: 81B
+[+] Receiving all data: Done (81B)
+62 : b" 0xf7fc8a60, \n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362414
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362414)
+[x] Receiving all data: 86B
+[+] Receiving all data: Done (86B)
+63 : b" 0xf7cf5c56, \x81\xc3\xbe\xe1 \n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362415
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362415)
+[x] Receiving all data: 84B
+[+] Receiving all data: Done (84B)
+64 : b" 0xf7f05e14, \x0c-#\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362416
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362416)
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+65 : b" 0xf7cdcd88, \x8b\x93\xb0\x01\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362417
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362417)
+[x] Receiving all data: 84B
+[+] Receiving all data: Done (84B)
+66 : b" 0xf7ed2ac4, \x18[\x03\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362418
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362418)
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+67 : b" 0x804befc, \xa0\x91\x04\x08\x01\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362419
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362419)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+68 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362420
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362420)
+[x] Receiving all data: 86B
+[+] Receiving all data: Done (86B)
+69 : b" 0xf7f09000, `\x9a\xf0\xf7\x04\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362421
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362421)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+70 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362422
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362422)
+[x] Receiving all data: 94B
+[+] Receiving all data: Done (94B)
+71 : b" 0xf7f1b2f0, Z\x8b\x0c$\x89\x04$\x8bD$\x04\xc2\x0c\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362423
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 86B
+[*] Process './login2' stopped with exit code 0 (pid 1362423)
+[+] Receiving all data: Done (86B)
+72 : b" 0xf7d0bd09, \x81\xc3\x0b\xe1 \n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362424
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362424)
+[x] Receiving all data: 80B
+[+] Receiving all data: Done (80B)
+73 : b" 0x804bff4, \n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362425
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362425)
+74 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362426
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362426)
+[x] Receiving all data: 93B
+[+] Receiving all data: Done (93B)
+75 : b" 0x80490c0, 1\xed^\x89\xe1\x83\xe4\xf0PTR\xe8\x19\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362427
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362427)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+76 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362428
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362428)
+[x] Receiving all data: 88B
+[+] Receiving all data: Done (88B)
+77 : b" 0x80490e8, \xf4\x8b\x1c$\xc3\xe9\x9e\x02\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362429
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362429)
+[x] Receiving all data: 83B
+[+] Receiving all data: Done (83B)
+78 : b" 0x80490ed, \xe9\x9e\x02\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362430
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362430)
+79 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362431
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362431)
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+80 : b" 0xffac72a4, \xccz\xac\xff\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362432
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362432)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+81 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362433
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362433)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+82 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362434
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362434)
+[x] Receiving all data: 85B
+[+] Receiving all data: Done (85B)
+83 : b" 0xf7fb8cc0, U\x8d\x15\x14\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362435
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362435)
+[x] Receiving all data: 86B
+[+] Receiving all data: Done (86B)
+84 : b" 0xffed32cc, `Z\xf1\xf7\x01\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362436
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362436)
+[x] Receiving all data: 81B
+[+] Receiving all data: Done (81B)
+85 : b" 0xf7fb5a60, \n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362437
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Stopped process './login2' (pid 1362437)
+86 : b''
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362438
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362438)
+[x] Receiving all data: 89B
+[+] Receiving all data: Done (89B)
+87 : b" 0xfffd3acc, ./login2\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362439
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362439)
+[x] Receiving all data: 82B
+[+] Receiving all data: Done (82B)
+88 : b" (nil), (null)\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362440
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362440)
+[x] Receiving all data: 101B
+[+] Receiving all data: Done (101B)
+89 : b" 0xffcaaad5, LESS_TERMCAP_se=\x1b[0m\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362441
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362441)
+[x] Receiving all data: 110B
+[+] Receiving all data: Done (110B)
+90 : b" 0xff9f6aea, POWERSHELL_TELEMETRY_OPTOUT=1\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362442
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362442)
+[x] Receiving all data: 101B
+[+] Receiving all data: Done (101B)
+91 : b" 0xffe3ab08, MAIL=/var/mail/k-730\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362443
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362443)
+[x] Receiving all data: 91B
+[+] Receiving all data: Done (91B)
+92 : b" 0xffc94b1d, USER=k-730\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362444
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362444)
+[x] Receiving all data: 101B
+[+] Receiving all data: Done (101B)
+93 : b" 0xfffadb28, LESS_TERMCAP_ue=\x1b[0m\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362445
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362445)
+[x] Receiving all data: 95B
+[+] Receiving all data: Done (95B)
+94 : b" 0xffbc3b3d, XDG_SEAT=seat0\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362446
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362446)
+[x] Receiving all data: 110B
+[+] Receiving all data: Done (110B)
+95 : b" 0xffea4b4c, DOTNET_CLI_TELEMETRY_OPTOUT=1\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362447
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362447)
+[x] Receiving all data: 101B
+[+] Receiving all data: Done (101B)
+96 : b" 0xffbf5b6a, XDG_SESSION_TYPE=tty\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362448
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362448)
+[x] Receiving all data: 99B
+[+] Receiving all data: Done (99B)
+97 : b" 0xfffb7b7f, SSH_AGENT_PID=1944\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362449
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362449)
+[x] Receiving all data: 88B
+[+] Receiving all data: Done (88B)
+98 : b" 0xffcb7b92, SHLVL=3\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+[x] Starting local process './login2'
+[+] Starting local process './login2': pid 1362450
+[x] Receiving all data
+[x] Receiving all data: 0B
+[*] Process './login2' stopped with exit code 0 (pid 1362450)
+[x] Receiving all data: 97B
+[+] Receiving all data: Done (97B)
+99 : b" 0xffac8b9a, HOME=/home/k-730\n... hmm that doesn't seem right\nLogin failed, try again next time!\n"
+--------------------------------------------------
+
+Flag: 
