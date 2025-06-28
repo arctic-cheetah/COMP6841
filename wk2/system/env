@@ -1,5 +1,7 @@
 export CURR_PATH="wk2/system"
-export REMOTE="$CURR_PATH/exploit.py REMOTE boverflow.comp6841.xyz 1342"
+export REMOTE="$CURR_PATH/exploit.py REMOTE boverflow.comp6841.xyz 1344"
 alias pythonExploit='~/COMP6841/.venv/bin/python'
 alias aslrOff='echo 0 | sudo tee /proc/sys/kernel/randomize_va_space'
 alias pipExploit='~/COMP6841/.venv/bin/pip'
+
+/home/lorikeet/COMP6841/wk2/system/challenge
